@@ -1,0 +1,13 @@
+var classfiftyone_1_1devicedetection_1_1shared_1_1_device_data_base_on_premise =
+[
+    [ "DeviceDataBaseOnPremise", "classfiftyone_1_1devicedetection_1_1shared_1_1_device_data_base_on_premise.html#a3a8f3470abc8b687275264d95789506b", null ],
+    [ "asKeyMap", "classfiftyone_1_1devicedetection_1_1shared_1_1_device_data_base_on_premise.html#a4f5504160086600b4f10524ec022c6c3", null ],
+    [ "getPropertyType", "classfiftyone_1_1devicedetection_1_1shared_1_1_device_data_base_on_premise.html#a0d67ad509d45727adc57ab221fa8faa0", null ],
+    [ "getValueAsBool", "classfiftyone_1_1devicedetection_1_1shared_1_1_device_data_base_on_premise.html#af159723b7b7daf1eb2d90b77d9e0ef72", null ],
+    [ "getValueAsDouble", "classfiftyone_1_1devicedetection_1_1shared_1_1_device_data_base_on_premise.html#a77085c87f381e1afc6a1de3351aaef4f", null ],
+    [ "getValueAsInteger", "classfiftyone_1_1devicedetection_1_1shared_1_1_device_data_base_on_premise.html#a64f300439d9a626cf3c78871efffb050", null ],
+    [ "getValueAsJavaScript", "classfiftyone_1_1devicedetection_1_1shared_1_1_device_data_base_on_premise.html#a8318a9286592e3e90c7bb6d56a9307e3", null ],
+    [ "getValueAsString", "classfiftyone_1_1devicedetection_1_1shared_1_1_device_data_base_on_premise.html#a352101462f0d77568e6fae936be8ac55", null ],
+    [ "getValues", "classfiftyone_1_1devicedetection_1_1shared_1_1_device_data_base_on_premise.html#a5d886222597a161ddd9b54ed3cfe7107", null ],
+    [ "propertyIsAvailable", "classfiftyone_1_1devicedetection_1_1shared_1_1_device_data_base_on_premise.html#ad13204a60662b4070342619babada2a9", null ]
+];
