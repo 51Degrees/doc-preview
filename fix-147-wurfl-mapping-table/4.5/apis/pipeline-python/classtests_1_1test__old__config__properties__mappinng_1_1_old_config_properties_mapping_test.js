@@ -1,0 +1,8 @@
+var classtests_1_1test__old__config__properties__mappinng_1_1_old_config_properties_mapping_test =
+[
+    [ "_map_properties_names", "classtests_1_1test__old__config__properties__mappinng_1_1_old_config_properties_mapping_test.html#a0125cbe04b1d2598af7fd6b1bb268200", null ],
+    [ "test_config_is_None_mapping", "classtests_1_1test__old__config__properties__mappinng_1_1_old_config_properties_mapping_test.html#a6e7470ae831b2ec729b001d9a94a670b", null ],
+    [ "test_empty_config_mapping", "classtests_1_1test__old__config__properties__mappinng_1_1_old_config_properties_mapping_test.html#a32ada9c9cdb25270f7968985aa2d7764", null ],
+    [ "test_success_mapping", "classtests_1_1test__old__config__properties__mappinng_1_1_old_config_properties_mapping_test.html#a4dcd17c511d99e1c844d3584831812a9", null ],
+    [ "test_success_mapping_args_passed_as_kwargs", "classtests_1_1test__old__config__properties__mappinng_1_1_old_config_properties_mapping_test.html#aa52d4bb81b5c874e5d639c8fe4f363d7", null ]
+];

@@ -1,0 +1,4 @@
+var classfiftyone_1_1ipintelligence_1_1engine_1_1onpremise_1_1data_1_1_property_meta_data_i_p_i =
+[
+    [ "PropertyMetaDataIPI", "classfiftyone_1_1ipintelligence_1_1engine_1_1onpremise_1_1data_1_1_property_meta_data_i_p_i.html#ae767c1e1cc0a7b3a0b5c03ae1fccc03c", null ]
+];
