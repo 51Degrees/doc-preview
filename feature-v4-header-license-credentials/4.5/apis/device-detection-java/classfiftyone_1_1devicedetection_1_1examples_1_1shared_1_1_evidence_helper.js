@@ -1,0 +1,6 @@
+var classfiftyone_1_1devicedetection_1_1examples_1_1shared_1_1_evidence_helper =
+[
+    [ "getEvidenceIterable", "classfiftyone_1_1devicedetection_1_1examples_1_1shared_1_1_evidence_helper.html#a5e6883640e1d30b7372974eb0f8c62ab", null ],
+    [ "getEvidenceList", "classfiftyone_1_1devicedetection_1_1examples_1_1shared_1_1_evidence_helper.html#a5357b74a41ed8cbe0309f1e278c3095a", null ],
+    [ "setUpEvidence", "classfiftyone_1_1devicedetection_1_1examples_1_1shared_1_1_evidence_helper.html#ab671fe949dc500233b7bd9bcf4094b1c", null ]
+];
