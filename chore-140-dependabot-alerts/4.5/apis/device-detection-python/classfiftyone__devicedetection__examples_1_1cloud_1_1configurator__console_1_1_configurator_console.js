@@ -1,0 +1,4 @@
+var classfiftyone__devicedetection__examples_1_1cloud_1_1configurator__console_1_1_configurator_console =
+[
+    [ "run", "classfiftyone__devicedetection__examples_1_1cloud_1_1configurator__console_1_1_configurator_console.html#a0d891c059985c2feea3814526d584b0b", null ]
+];
