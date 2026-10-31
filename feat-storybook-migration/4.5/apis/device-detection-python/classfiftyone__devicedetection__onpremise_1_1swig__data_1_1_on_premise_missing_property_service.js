@@ -1,0 +1,4 @@
+var classfiftyone__devicedetection__onpremise_1_1swig__data_1_1_on_premise_missing_property_service =
+[
+    [ "check", "classfiftyone__devicedetection__onpremise_1_1swig__data_1_1_on_premise_missing_property_service.html#ab8f685d4039c6523d6ae5608b391263c", null ]
+];

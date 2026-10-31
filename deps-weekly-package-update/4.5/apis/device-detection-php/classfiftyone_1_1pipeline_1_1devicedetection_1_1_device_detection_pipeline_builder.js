@@ -1,0 +1,4 @@
+var classfiftyone_1_1pipeline_1_1devicedetection_1_1_device_detection_pipeline_builder =
+[
+    [ "__construct", "classfiftyone_1_1pipeline_1_1devicedetection_1_1_device_detection_pipeline_builder.html#acad4a985480a570d77003ab7d2658881", null ]
+];

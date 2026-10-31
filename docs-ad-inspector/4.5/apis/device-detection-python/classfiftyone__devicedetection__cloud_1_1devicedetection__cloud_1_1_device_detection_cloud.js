@@ -1,0 +1,5 @@
+var classfiftyone__devicedetection__cloud_1_1devicedetection__cloud_1_1_device_detection_cloud =
+[
+    [ "__init__", "classfiftyone__devicedetection__cloud_1_1devicedetection__cloud_1_1_device_detection_cloud.html#aea47258d6044dd3f24e78c021722c210", null ],
+    [ "datakey", "classfiftyone__devicedetection__cloud_1_1devicedetection__cloud_1_1_device_detection_cloud.html#aa23c7f185b8dea9a757b314b9035e803", null ]
+];

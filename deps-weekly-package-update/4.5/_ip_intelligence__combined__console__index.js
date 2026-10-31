@@ -1,0 +1,6 @@
+var _ip_intelligence__combined__console__index =
+[
+    [ "On-Premise Console", "_ip_intelligence__combined__console__on_premise.html", [
+      [ "Introduction", "_ip_intelligence__combined__console__on_premise.html#introduction-33", null ]
+    ] ]
+];
