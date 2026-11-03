@@ -1,0 +1,7 @@
+var classfiftyone__devicedetection__examples_1_1onpremise_1_1datafileupdate__console_1_1_update_event =
+[
+    [ "__init__", "classfiftyone__devicedetection__examples_1_1onpremise_1_1datafileupdate__console_1_1_update_event.html#ac7838fd3912034f1b00083695d63aa3d", null ],
+    [ "clear", "classfiftyone__devicedetection__examples_1_1onpremise_1_1datafileupdate__console_1_1_update_event.html#a500a6a8b202aef284168907ce31f2314", null ],
+    [ "set", "classfiftyone__devicedetection__examples_1_1onpremise_1_1datafileupdate__console_1_1_update_event.html#ae01a7fc327c3e82c62593c0f0800ef75", null ],
+    [ "status", "classfiftyone__devicedetection__examples_1_1onpremise_1_1datafileupdate__console_1_1_update_event.html#aa42c41902cc504d51101dc2793c99e30", null ]
+];

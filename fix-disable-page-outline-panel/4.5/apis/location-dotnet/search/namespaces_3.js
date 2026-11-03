@@ -1,0 +1,4 @@
+var searchData=
+[
+  ['gettingstarted_0',['GettingStarted',['../namespace_getting_started.html',1,'']]]
+];
