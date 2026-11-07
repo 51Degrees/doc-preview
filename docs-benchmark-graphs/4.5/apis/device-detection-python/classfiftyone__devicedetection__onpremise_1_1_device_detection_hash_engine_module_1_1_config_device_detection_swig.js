@@ -1,0 +1,11 @@
+var classfiftyone__devicedetection__onpremise_1_1_device_detection_hash_engine_module_1_1_config_device_detection_swig =
+[
+    [ "__init__", "classfiftyone__devicedetection__onpremise_1_1_device_detection_hash_engine_module_1_1_config_device_detection_swig.html#a205dd1bdda270e4503393bb906ec8c5f", null ],
+    [ "getAllowUnmatched", "classfiftyone__devicedetection__onpremise_1_1_device_detection_hash_engine_module_1_1_config_device_detection_swig.html#a6c45c5467c44297305158bd8a22cdeae", null ],
+    [ "getMaxMatchedUserAgentLength", "classfiftyone__devicedetection__onpremise_1_1_device_detection_hash_engine_module_1_1_config_device_detection_swig.html#ac071fe09a97356bad41795dbc49bb051", null ],
+    [ "getUpdateMatchedUserAgent", "classfiftyone__devicedetection__onpremise_1_1_device_detection_hash_engine_module_1_1_config_device_detection_swig.html#af1c008713126bc676891fe3d588f8e38", null ],
+    [ "setAllowUnmatched", "classfiftyone__devicedetection__onpremise_1_1_device_detection_hash_engine_module_1_1_config_device_detection_swig.html#a041bc0a2a1702e4a78376d2a0f5b313b", null ],
+    [ "setMaxMatchedUserAgentLength", "classfiftyone__devicedetection__onpremise_1_1_device_detection_hash_engine_module_1_1_config_device_detection_swig.html#a96618ab9099fae4cbb07e3147606a9e6", null ],
+    [ "setUpdateMatchedUserAgent", "classfiftyone__devicedetection__onpremise_1_1_device_detection_hash_engine_module_1_1_config_device_detection_swig.html#a163c73b04d10508950d27320f13112ba", null ],
+    [ "thisown", "classfiftyone__devicedetection__onpremise_1_1_device_detection_hash_engine_module_1_1_config_device_detection_swig.html#aa14bf33fa182e2e76b3bad552e689fe0", null ]
+];
