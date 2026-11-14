@@ -1,0 +1,5 @@
+<map id="FiftyOne.Pipeline.DerivedProperty.Data.DerivedCheckReference" name="FiftyOne.Pipeline.DerivedProperty.Data.DerivedCheckReference">
+<area shape="rect" id="Node000001" title="Reuses the answer of a named check." alt="" coords="5,98,276,143"/>
+<area shape="rect" id="Node000002" href="$class_fifty_one_1_1_pipeline_1_1_derived_property_1_1_data_1_1_derived_condition.html" title="A condition in a script, compiled into a small object that answers itself." alt="" coords="27,5,254,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="142,64,143,99,138,97,139,68"/>
+</map>

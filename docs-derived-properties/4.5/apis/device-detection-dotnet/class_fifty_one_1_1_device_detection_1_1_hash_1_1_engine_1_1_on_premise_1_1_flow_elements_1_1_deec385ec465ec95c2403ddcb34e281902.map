@@ -1,0 +1,14 @@
+<map id="FiftyOne.DeviceDetection.Hash.Engine.OnPremise.FlowElements.DeviceDetectionHashEngine" name="FiftyOne.DeviceDetection.Hash.Engine.OnPremise.FlowElements.DeviceDetectionHashEngine">
+<area shape="rect" id="Node000001" title="Hash device detection engine." alt="" coords="622,102,900,164"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="170,5,410,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="426,47,599,82,663,101,657,102,598,88,426,52"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="166,74,414,136"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="429,111,624,124,619,126,429,116"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="166,160,414,221"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="429,172,598,151,625,151,619,152,599,157,430,177"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,220,103,248"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="117,220,169,212,164,215,119,225"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="152,245,428,306"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="118,243,154,251,149,252,118,248"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="443,242,520,223,597,199,691,165,696,164,599,205,522,228,444,247"/>
+</map>

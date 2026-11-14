@@ -1,0 +1,9 @@
+var classtests_1_1test__datafile__update__http_1_1_short_download_tests =
+[
+    [ "check_short_download", "classtests_1_1test__datafile__update__http_1_1_short_download_tests.html#a45fe4b084d8adea4a09ca39893134043", null ],
+    [ "serve", "classtests_1_1test__datafile__update__http_1_1_short_download_tests.html#a3e6983e5809d655a128b83ff9c7b048f", null ],
+    [ "testAChunkedResponseCutShortIsAnAccessError", "classtests_1_1test__datafile__update__http_1_1_short_download_tests.html#a5d83143ad052c92b5f913795edafab7f", null ],
+    [ "testAResponseInAContentEncodingIsNotMeasured", "classtests_1_1test__datafile__update__http_1_1_short_download_tests.html#ab661c71d529d4c506ed82396bad2ced4", null ],
+    [ "testAResponseShorterThanItsContentLengthIsAnAccessError", "classtests_1_1test__datafile__update__http_1_1_short_download_tests.html#a4026dd197053979ed5dd8f364a3dffe8", null ],
+    [ "testTheLengthIsCheckedWhicheverHttpLibraryIsInstalled", "classtests_1_1test__datafile__update__http_1_1_short_download_tests.html#a9ce44715aa008e3387a67a26079f0901", null ]
+];

@@ -1,0 +1,6 @@
+var struct_display_value =
+[
+    [ "label", "struct_display_value.html#aa4ca6831cfcd3868f8a4db32d03baf25", null ],
+    [ "property", "struct_display_value.html#a3f340303eb8ce4870c6de24234d39552", null ],
+    [ "value", "struct_display_value.html#a137206214d920769e63d866e40b8fb80", null ]
+];

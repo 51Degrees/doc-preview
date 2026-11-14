@@ -1,0 +1,13 @@
+<map id="fiftyone.caching.LruPutCache&lt; K, V &gt;" name="fiftyone.caching.LruPutCache&lt; K, V &gt;">
+<area shape="rect" id="Node000001" title="Uses the LruCacheBase to implement the PutCache interface." alt="" coords="102,266,311,311"/>
+<area shape="rect" id="Node000002" href="$classfiftyone_1_1caching_1_1_lru_cache_base.html" title="This is a Least Recently Used (LRU) cache with multiple linked lists in place of the usual single lin..." alt="" coords="5,174,194,218"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="137,226,183,266,178,266,136,231"/>
+<area shape="rect" id="Node000003" href="$interfacefiftyone_1_1caching_1_1_cache.html" title="Base cache interface which declares only the get method and the types of key and value stored in the ..." alt="" coords="137,81,305,126"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="178,137,130,175,127,171,182,133"/>
+<area shape="rect" id="Node000005" href="$interfacefiftyone_1_1caching_1_1_put_cache.html" title="A cache that supports a thread safe put method for inserting to cache." alt="" coords="218,174,408,218"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="254,134,294,173,289,174,253,139"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="117,5,202,33"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="144,44,127,82,113,131,105,174,100,172,108,129,122,80,141,49"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="179,43,207,80,202,81,178,48"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="278,228,233,268,230,264,273,230"/>
+</map>

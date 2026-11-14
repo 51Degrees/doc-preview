@@ -1,0 +1,11 @@
+<map id="FiftyOne.Pipeline.AgentSignature.FlowElement.AgentSignatureElement" name="FiftyOne.Pipeline.AgentSignature.FlowElement.AgentSignatureElement">
+<area shape="rect" id="Node000001" title="Reads the three HTTP headers an automated agent sends when it signs its request under the IETF Web Bo..." alt="" coords="5,393,270,438"/>
+<area shape="rect" id="Node000002" href="$class_fifty_one_1_1_pipeline_1_1_core_1_1_flow_elements_1_1_flow_element_base-2-g.html" title="Abstract base class for Flow Elements." alt="" coords="36,283,239,345"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="139,359,140,394,135,391,136,363"/>
+<area shape="rect" id="Node000003" href="$interface_fifty_one_1_1_pipeline_1_1_core_1_1_flow_elements_1_1_i_flow_element-2-g.html" title="Generic interface that extends IFlowElement with the ability to return a ITypedKey&lt;T&gt; that will allow..." alt="" coords="36,174,239,235"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="139,248,140,284,135,282,136,253"/>
+<area shape="rect" id="Node000004" href="$interface_fifty_one_1_1_pipeline_1_1_core_1_1_flow_elements_1_1_i_flow_element.html" title="IFlowElement is the basic building block of a pipeline." alt="" coords="37,81,238,126"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="138,139,140,174,135,173,137,144"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="89,5,186,33"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="138,46,140,81,135,80,137,51"/>
+</map>

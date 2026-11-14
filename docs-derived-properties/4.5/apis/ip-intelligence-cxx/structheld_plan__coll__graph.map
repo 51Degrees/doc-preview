@@ -1,0 +1,10 @@
+<map id="heldPlan" name="heldPlan">
+<area shape="rect" id="Node000001" title="What is worked out before anything is held." alt="" coords="204,288,281,316"/>
+<area shape="rect" id="Node000002" href="$structfiftyone_degrees_collection_held_strings.html" title="The strings to hold, worked out from the offsets of the strings needed." alt="" coords="76,147,265,191"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,203,238,288,233,288,188,207"/>
+<area shape="rect" id="Node000003" href="$structfiftyone_degrees_collection_held_bucket.html" title="The lowest and highest string offsets recorded in part of the strings, and a tag for the highest that..." alt="" coords="5,5,195,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="113,62,131,98,159,146,154,147,126,100,113,67"/>
+<area shape="rect" id="Node000004" href="$structfiftyone_degrees_collection_held_range.html" title="A stretch of a collection to hold in memory, in the units of the collection&#39;s keys." alt="" coords="219,5,408,50"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="316,63,317,108,312,159,301,213,281,265,261,290,258,285,276,263,295,212,306,158,311,107,313,67"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="259,61,244,76,211,112,186,148,182,145,207,109,241,72,263,57"/>
+</map>

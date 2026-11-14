@@ -1,0 +1,5 @@
+var classfiftyone_1_1devicedetection_1_1examples_1_1console_1_1comparison_1_1_detection_impl_device_atlas =
+[
+    [ "DeviceAtlasProperties", "classfiftyone_1_1devicedetection_1_1examples_1_1console_1_1comparison_1_1_detection_impl_device_14a499038d23bd9bd2df6ff4c84ed1a9.html", null ],
+    [ "DeviceAtlasSolution", "classfiftyone_1_1devicedetection_1_1examples_1_1console_1_1comparison_1_1_detection_impl_device_atlas_1_1_device_atlas_solution.html", null ]
+];

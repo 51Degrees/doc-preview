@@ -1,0 +1,19 @@
+<map id="FiftyOne.Pipeline.Core.Exceptions.PipelineException" name="FiftyOne.Pipeline.Core.Exceptions.PipelineException">
+<area shape="rect" id="Node000001" title="Base class for all exceptions thrown by Pipeline API components." alt="" coords="139,144,383,189"/>
+<area shape="rect" id="Node000003" href="$class_fifty_one_1_1_pipeline_1_1_cloud_request_engine_1_1_cloud_request_exception.html" title="Contains details about exceptions that occur when making requests to the cloud service." alt="" coords="464,5,690,50"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="303,133,362,95,430,60,466,49,462,52,432,65,364,99,306,137"/>
+<area shape="rect" id="Node000004" href="$class_fifty_one_1_1_pipeline_1_1_core_1_1_exceptions_1_1_pipeline_configuration_exception.html" title="Exception that is thrown when the configuration options provided to PipelineBuilder are invalid See t..." alt="" coords="455,75,699,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="380,137,475,119,470,121,382,143"/>
+<area shape="rect" id="Node000006" href="$class_fifty_one_1_1_pipeline_1_1_core_1_1_exceptions_1_1_pipeline_data_exception.html" title="Exception that can be thrown when the available data does not match that which is expected." alt="" coords="455,144,699,189"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="398,164,457,166,452,167,399,169"/>
+<area shape="rect" id="Node000007" href="$class_fifty_one_1_1_pipeline_1_1_core_1_1_exceptions_1_1_pipeline_temporarily_unavailable_exception.html" title="Indicates that pipeline refused to process Data.IFlowData based on the internal state of some flow el..." alt="" coords="431,213,723,258"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="381,190,475,212,469,213,381,195"/>
+<area shape="rect" id="Node000009" href="$class_fifty_one_1_1_pipeline_1_1_core_1_1_exceptions_1_1_properties_not_yet_loaded_exception.html" title="Thrown by FlowElements.IFlowElement.Properties to indicate that properties are not available yet but ..." alt="" coords="455,283,699,327"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="305,195,364,233,432,268,467,282,461,282,430,273,362,238,304,200"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,152,91,180"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,164,140,165,136,168,107,169"/>
+<area shape="rect" id="Node000005" href="$class_fifty_one_1_1_pipeline_1_1_derived_property_1_1_data_1_1_derived_script_validation_exception.html" title="Raised where one or more scripts do not validate." alt="" coords="778,66,1045,128"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="714,94,781,97,776,97,715,100"/>
+<area shape="rect" id="Node000008" href="$class_fifty_one_1_1_pipeline_1_1_cloud_request_engine_1_1_cloud_request_engine_temporarily_unavailable_exception.html" title="Indicates that cloud request engine can not currently send a request to the remote cloud server." alt="" coords="771,205,1052,266"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="739,233,774,235,768,236,739,238"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="fiftyone.geolocation.core.data.GeoData" name="fiftyone.geolocation.core.data.GeoData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="497,40,716,85"/>
+<area shape="rect" id="Node000004" href="$classfiftyone_1_1geolocation_1_1core_1_1data_1_1_geo_data_default.html" title=" " alt="" coords="764,5,984,50"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="732,43,761,42,767,42,732,49"/>
+<area shape="rect" id="Node000006" href="$interfacefiftyone_1_1geolocation_1_1data_1_1_cloud_geo_data.html" title="The Location Element Data from the cloud." alt="" coords="780,75,968,119"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="732,76,783,85,777,85,732,81"/>
+<area shape="rect" id="Node000002" href="/home/runner/work/documentation/documentation/apis/51degrees-java/pipeline/docs/tagfile$interfacefiftyone_1_1pipeline_1_1engines_1_1data_1_1_aspect_data.html" title=" " alt="" coords="249,40,449,85"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="465,60,499,62,494,63,465,65"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,40,201,85"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="216,60,251,62,246,63,216,65"/>
+<area shape="rect" id="Node000005" href="$classfiftyone_1_1geolocation_1_1data_1_1_cloud_geo_data_default.html" title="The Location Element Data from the cloud." alt="" coords="1032,40,1219,85"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="999,42,1034,49,1028,49,999,48"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="983,79,1029,76,1034,75,984,85"/>
+</map>

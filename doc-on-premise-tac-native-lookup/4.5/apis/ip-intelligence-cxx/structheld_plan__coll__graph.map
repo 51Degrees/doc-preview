@@ -1,0 +1,7 @@
+<map id="heldPlan" name="heldPlan">
+<area shape="rect" id="Node000001" title="What is worked out before anything is held." alt="" coords="105,181,183,207"/>
+<area shape="rect" id="Node000002" href="$structheld_strings_bucket.html" title="The lowest and highest required string offsets in part of the strings, and how the highest is stored ..." alt="" coords="5,5,144,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,43,128,156,140,180,135,182,123,158,80,45"/>
+<area shape="rect" id="Node000003" href="$structheld_range.html" title="A stretch of a collection held in memory, in the units of the collection&#39;s keys." alt="" coords="168,5,259,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="215,45,208,99,199,130,186,159,163,183,160,179,182,156,194,128,203,98,210,44"/>
+</map>

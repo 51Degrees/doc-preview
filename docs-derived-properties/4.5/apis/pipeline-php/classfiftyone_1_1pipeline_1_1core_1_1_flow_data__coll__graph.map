@@ -1,0 +1,15 @@
+<map id="fiftyone\pipeline\core\FlowData" name="fiftyone\pipeline\core\FlowData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1126,23,1284,67"/>
+<area shape="rect" id="Node000002" href="$classfiftyone_1_1pipeline_1_1core_1_1_pipeline.html" title="Pipeline holding a list of FlowElements for processing, can create FlowData that will be passed throu..." alt="" coords="269,57,427,102"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="442,55,543,38,678,29,784,28,891,32,1027,34,1102,34,1128,38,1122,38,1102,40,1027,40,890,38,784,34,679,34,543,44,443,60"/>
+<area shape="rect" id="Node000005" href="$classfiftyone_1_1pipeline_1_1core_1_1_flow_data.html" title=" " alt="" coords="543,123,701,167"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="442,99,545,126,540,126,442,105"/>
+<area shape="rect" id="Node000003" href="$classfiftyone_1_1pipeline_1_1core_1_1_logger.html" title="Logging for a Pipeline." alt="" coords="5,57,164,102"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="179,77,271,79,266,81,179,82"/>
+<area shape="rect" id="Node000004" href="$classfiftyone_1_1pipeline_1_1core_1_1_evidence.html" title="Storage of evidence on a FlowData object." alt="" coords="844,81,1003,126"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1017,81,1123,62,1128,61,1018,87"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="832,123,821,127,702,141,702,136,820,122,826,124"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="683,171,715,182,750,189,785,190,819,184,843,172,865,157,900,128,905,126,869,161,846,177,821,189,786,196,749,194,713,187,682,176"/>
+<area shape="rect" id="Node000006" href="$classfiftyone_1_1pipeline_1_1core_1_1_http_request.html" title="A read&#45;only view of a web request, held in Evidence under server.http&#45;request." alt="" coords="543,53,701,98"/>
+<area shape="poly" id="edge7_Node000004_Node000006" title=" " alt="" coords="717,82,846,96,841,96,717,87"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="FiftyOne.Pipeline.IpSplitter.SplitIpData" name="FiftyOne.Pipeline.IpSplitter.SplitIpData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="762,40,960,85"/>
+<area shape="rect" id="Node000002" href="$class_fifty_one_1_1_pipeline_1_1_core_1_1_data_1_1_element_data_base.html" title="This class stores property values that have been determined by a specific FlowElement based on the su..." alt="" coords="510,5,714,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="730,41,765,49,759,49,730,47"/>
+<area shape="rect" id="Node000003" href="$class_fifty_one_1_1_pipeline_1_1_core_1_1_data_1_1_data_base.html" title="This class stores data values as key/value pairs where the key is a string and the value can be any t..." alt="" coords="258,5,462,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="477,25,512,27,507,28,478,30"/>
+<area shape="rect" id="Node000004" href="$interface_fifty_one_1_1_pipeline_1_1_core_1_1_data_1_1_i_data.html" title="Represents property values." alt="" coords="5,40,210,85"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="225,44,260,41,255,42,226,49"/>
+<area shape="rect" id="Node000005" href="$interface_fifty_one_1_1_pipeline_1_1_core_1_1_data_1_1_i_element_data.html" title="Represents property values that have been determined by a specific FlowElement based on the supplied ..." alt="" coords="258,75,462,119"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="225,76,260,83,255,83,225,81"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="458,67,526,51,531,50,459,73"/>
+<area shape="rect" id="Node000006" href="$interface_fifty_one_1_1_pipeline_1_1_ip_splitter_1_1_i_split_ip_data.html" title=" " alt="" coords="514,75,711,119"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="477,94,516,97,510,97,477,100"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="726,78,759,76,765,76,727,84"/>
+</map>

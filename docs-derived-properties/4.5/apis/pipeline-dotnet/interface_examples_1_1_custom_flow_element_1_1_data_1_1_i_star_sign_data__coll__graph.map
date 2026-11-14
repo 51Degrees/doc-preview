@@ -1,0 +1,7 @@
+<map id="Examples.CustomFlowElement.Data.IStarSignData" name="Examples.CustomFlowElement.Data.IStarSignData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,191,234,235"/>
+<area shape="rect" id="Node000002" href="$interface_fifty_one_1_1_pipeline_1_1_core_1_1_data_1_1_i_element_data.html" title="Represents property values that have been determined by a specific FlowElement based on the supplied ..." alt="" coords="17,98,222,143"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,156,122,192,117,189,118,160"/>
+<area shape="rect" id="Node000003" href="$interface_fifty_one_1_1_pipeline_1_1_core_1_1_data_1_1_i_data.html" title="Represents property values." alt="" coords="17,5,222,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="121,63,122,99,117,97,118,68"/>
+</map>

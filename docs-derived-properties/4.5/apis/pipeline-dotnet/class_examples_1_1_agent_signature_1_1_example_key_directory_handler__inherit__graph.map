@@ -1,0 +1,5 @@
+<map id="Examples.AgentSignature.ExampleKeyDirectoryHandler" name="Examples.AgentSignature.ExampleKeyDirectoryHandler">
+<area shape="rect" id="Node000001" title="Answers the element&#39;s key directory fetches from a table held in memory rather than from the network,..." alt="" coords="5,81,219,126"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="33,5,191,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,47,114,81,110,79,110,51"/>
+</map>
