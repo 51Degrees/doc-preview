@@ -1,0 +1,16 @@
+<map id="FiftyOne.Pipeline.Engines.FiftyOne.FlowElements.ShareUsageBase" name="FiftyOne.Pipeline.Engines.FiftyOne.FlowElements.ShareUsageBase">
+<area shape="rect" id="Node000001" title="Abstract base class for ShareUsage elements." alt="" coords="932,52,1217,97"/>
+<area shape="rect" id="Node000007" href="$class_fifty_one_1_1_pipeline_1_1_engines_1_1_fifty_one_1_1_flow_elements_1_1_share_usage_element.html" title="Flow element that sends usage data to 51Degrees for analysis." alt="" coords="1265,44,1518,106"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="1233,72,1267,75,1262,75,1233,77"/>
+<area shape="rect" id="Node000002" href="$class_fifty_one_1_1_pipeline_1_1_core_1_1_flow_elements_1_1_flow_element_base-2-g.html" title="Abstract base class for Flow Elements." alt="" coords="665,5,868,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="884,48,934,57,929,57,883,53"/>
+<area shape="rect" id="Node000003" href="$interface_fifty_one_1_1_pipeline_1_1_core_1_1_flow_elements_1_1_i_flow_element-2-g.html" title="Generic interface that extends IFlowElement with the ability to return a ITypedKey&lt;T&gt; that will allow..." alt="" coords="399,8,601,70"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="617,35,667,37,662,37,617,40"/>
+<area shape="rect" id="Node000004" href="$interface_fifty_one_1_1_pipeline_1_1_core_1_1_flow_elements_1_1_i_flow_element.html" title="IFlowElement is the basic building block of a pipeline." alt="" coords="151,54,351,98"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="366,56,401,54,396,54,367,61"/>
+<area shape="rect" id="Node000006" href="$interface_fifty_one_1_1_pipeline_1_1_core_1_1_flow_elements_1_1_i_usage_sharing_element.html" title="Marks the usage sharing element." alt="" coords="649,91,884,136"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="366,82,652,104,647,106,366,87"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,62,103,90"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="118,74,153,75,148,77,119,79"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="899,94,929,93,934,93,899,100"/>
+</map>

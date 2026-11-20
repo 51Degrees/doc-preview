@@ -1,0 +1,8 @@
+var interface_fifty_one_1_1_pipeline_1_1_core_1_1_data_1_1_i_data =
+[
+    [ "AsDictionary", "interface_fifty_one_1_1_pipeline_1_1_core_1_1_data_1_1_i_data.html#ad1a4f4bf20acc4a9eea4022335d83470", null ],
+    [ "PopulateFrom", "interface_fifty_one_1_1_pipeline_1_1_core_1_1_data_1_1_i_data.html#ad0595a7a89108db26070714810e10ae6", null ],
+    [ "PopulateFromDictionary", "interface_fifty_one_1_1_pipeline_1_1_core_1_1_data_1_1_i_data.html#a8a5d05a66a8a40f7e047e73d8c53565c", null ],
+    [ "TryGet", "interface_fifty_one_1_1_pipeline_1_1_core_1_1_data_1_1_i_data.html#ab0460482402888726f06f59f353401aa", null ],
+    [ "this[string key]", "interface_fifty_one_1_1_pipeline_1_1_core_1_1_data_1_1_i_data.html#a46f4fd324cc428ba90e22cd4395a7e12", null ]
+];

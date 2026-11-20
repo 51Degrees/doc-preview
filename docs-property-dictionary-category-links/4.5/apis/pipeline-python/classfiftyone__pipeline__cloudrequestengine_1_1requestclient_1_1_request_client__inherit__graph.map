@@ -1,0 +1,7 @@
+<map id="fiftyone_pipeline_cloudrequestengine.requestclient.RequestClient" name="fiftyone_pipeline_cloudrequestengine.requestclient.RequestClient">
+<area shape="rect" id="Node000001" title="Sends the cloud request engine&#39;s requests with the requests library." alt="" coords="61,5,418,50"/>
+<area shape="rect" id="Node000002" href="$classmockrequestclient_1_1_mock_request_client.html" title=" " alt="" coords="5,98,240,143"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,59,152,100,149,95,198,60"/>
+<area shape="rect" id="Node000003" href="$classtests_1_1test__discovery__at__build_1_1_discovery_client.html" title=" " alt="" coords="264,98,451,143"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="280,57,332,98,326,97,279,62"/>
+</map>

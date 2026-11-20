@@ -1,0 +1,5 @@
+<map id="FiftyOne.Pipeline.Engines.Exceptions.DataUpdateException" name="FiftyOne.Pipeline.Engines.Exceptions.DataUpdateException">
+<area shape="rect" id="Node000001" title="Exception that can be thrown when a DataUpdateService fails to successfully complete an update." alt="" coords="5,81,244,126"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="82,5,167,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,47,127,81,122,79,123,51"/>
+</map>

@@ -1,0 +1,5 @@
+var classfiftyone_1_1ipintelligence_1_1examples_1_1shared_1_1_example_process_1_1_result =
+[
+    [ "exitCode", "classfiftyone_1_1ipintelligence_1_1examples_1_1shared_1_1_example_process_1_1_result.html#ae82e001f34908c7441bac9be2803078b", null ],
+    [ "output", "classfiftyone_1_1ipintelligence_1_1examples_1_1shared_1_1_example_process_1_1_result.html#aca05647f60039e6259e5746d17d9f439", null ]
+];

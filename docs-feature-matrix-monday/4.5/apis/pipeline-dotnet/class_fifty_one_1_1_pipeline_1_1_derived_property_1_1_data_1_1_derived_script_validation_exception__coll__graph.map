@@ -1,0 +1,9 @@
+<map id="FiftyOne.Pipeline.DerivedProperty.Data.DerivedScriptValidationException" name="FiftyOne.Pipeline.DerivedProperty.Data.DerivedScriptValidationException">
+<area shape="rect" id="Node000001" title="Raised where one or more scripts do not validate." alt="" coords="5,266,272,328"/>
+<area shape="rect" id="Node000002" href="$class_fifty_one_1_1_pipeline_1_1_core_1_1_exceptions_1_1_pipeline_configuration_exception.html" title="Exception that is thrown when the configuration options provided to PipelineBuilder are invalid See t..." alt="" coords="16,174,261,218"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,232,141,267,136,265,137,236"/>
+<area shape="rect" id="Node000003" href="$class_fifty_one_1_1_pipeline_1_1_core_1_1_exceptions_1_1_pipeline_exception.html" title="Base class for all exceptions thrown by Pipeline API components." alt="" coords="16,81,261,126"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="140,139,141,174,136,173,137,144"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="96,5,181,33"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="139,46,141,81,136,80,138,51"/>
+</map>

@@ -1,0 +1,11 @@
+var classtests_1_1test__hardwareprofile__cloud_1_1_hardware_profile_aspect_data_tests =
+[
+    [ "test_a_name_that_is_not_a_property_gives_the_device_data_message", "classtests_1_1test__hardwareprofile__cloud_1_1_hardware_profile_aspect_data_tests.html#a54d5849f54d691a23af44cc7ece6b6b3", null ],
+    [ "test_a_profile_is_aspect_data", "classtests_1_1test__hardwareprofile__cloud_1_1_hardware_profile_aspect_data_tests.html#acc0ab3a75ec1dc7549197a70bbb0ecd5", null ],
+    [ "test_a_property_with_no_value_is_read_as_an_attribute", "classtests_1_1test__hardwareprofile__cloud_1_1_hardware_profile_aspect_data_tests.html#abf9b513bb7563ea62a554a69b83a00eb", null ],
+    [ "test_as_dictionary_gives_every_property", "classtests_1_1test__hardwareprofile__cloud_1_1_hardware_profile_aspect_data_tests.html#acc6227a3eeed914578e16d7434154977", null ],
+    [ "test_attributes_are_read_in_any_letter_case", "classtests_1_1test__hardwareprofile__cloud_1_1_hardware_profile_aspect_data_tests.html#a205f78a32203761d806494e4b0e69f74", null ],
+    [ "test_hasattr_and_getattr_with_a_default_work", "classtests_1_1test__hardwareprofile__cloud_1_1_hardware_profile_aspect_data_tests.html#ae049490734f4dd33078afca32fd88cce", null ],
+    [ "test_names_are_compared_ignoring_letter_case", "classtests_1_1test__hardwareprofile__cloud_1_1_hardware_profile_aspect_data_tests.html#a88c74da717a458e545e45361f23a171d", null ],
+    [ "test_properties_are_read_as_attributes", "classtests_1_1test__hardwareprofile__cloud_1_1_hardware_profile_aspect_data_tests.html#a982a652a9631284c9bda3efe1ff2b031", null ]
+];

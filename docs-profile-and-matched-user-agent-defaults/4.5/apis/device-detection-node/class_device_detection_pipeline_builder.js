@@ -1,0 +1,4 @@
+var class_device_detection_pipeline_builder =
+[
+    [ "constructor", "class_device_detection_pipeline_builder.html#a758b57ecd6293410e7b29ab222fa2a64", null ]
+];

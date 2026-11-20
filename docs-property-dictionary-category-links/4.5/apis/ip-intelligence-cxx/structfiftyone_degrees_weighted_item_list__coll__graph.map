@@ -1,0 +1,13 @@
+<map id="fiftyoneDegreesWeightedItemList" name="fiftyoneDegreesWeightedItemList">
+<area shape="rect" id="Node000001" title="A resizable list of weighted items." alt="" coords="5,327,244,355"/>
+<area shape="rect" id="Node000002" href="$structfiftyone_degrees_weighted_item.html" title="A weighted collection item." alt="" coords="17,216,232,244"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,258,127,328,122,326,122,261"/>
+<area shape="rect" id="Node000003" href="$structfiftyone_degrees_collection_item.html" title="Used to store a handle to the underlying item that could be used to release the item when it&#39;s finish..." alt="" coords="155,106,374,134"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="230,145,213,160,141,218,138,214,210,156,234,141"/>
+<area shape="rect" id="Node000005" href="$structfiftyone_degrees_collection.html" title="All the shared methods and fields required by file, memory and cached collections." alt="" coords="256,216,446,244"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="257,146,258,166,263,181,281,200,306,216,301,216,278,205,258,184,253,166,255,151"/>
+<area shape="rect" id="Node000004" href="$structfiftyone_degrees_data.html" title="Data structure used for reusing memory which may have been allocated in a previous operation." alt="" coords="187,5,342,33"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="266,46,267,106,262,105,263,51"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="342,201,333,180,320,159,292,137,292,132,324,156,338,178,347,202"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="461,220,472,230,465,239,447,243,446,238,462,234,467,230,460,226"/>
+</map>

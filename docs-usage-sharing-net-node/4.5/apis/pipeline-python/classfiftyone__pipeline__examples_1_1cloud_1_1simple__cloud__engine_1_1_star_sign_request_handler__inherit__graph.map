@@ -1,0 +1,5 @@
+<map id="fiftyone_pipeline_examples.cloud.simple_cloud_engine.StarSignRequestHandler" name="fiftyone_pipeline_examples.cloud.simple_cloud_engine.StarSignRequestHandler">
+<area shape="rect" id="Node000001" title="Answers the requests a cloud request engine makes, at the paths it makes them to." alt="" coords="5,81,293,126"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="53,5,245,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,47,151,82,147,79,147,51"/>
+</map>

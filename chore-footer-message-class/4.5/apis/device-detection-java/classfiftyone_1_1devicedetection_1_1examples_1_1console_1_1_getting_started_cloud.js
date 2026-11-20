@@ -1,0 +1,5 @@
+var classfiftyone_1_1devicedetection_1_1examples_1_1console_1_1_getting_started_cloud =
+[
+    [ "main", "classfiftyone_1_1devicedetection_1_1examples_1_1console_1_1_getting_started_cloud.html#a6217d823be9f0d676512a621eb77e04b", null ],
+    [ "run", "classfiftyone_1_1devicedetection_1_1examples_1_1console_1_1_getting_started_cloud.html#af556a5e38683a66e20a0008466c8bd66", null ]
+];

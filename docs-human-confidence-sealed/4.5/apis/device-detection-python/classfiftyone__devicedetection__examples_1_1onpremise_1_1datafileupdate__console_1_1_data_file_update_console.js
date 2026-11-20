@@ -1,0 +1,6 @@
+var classfiftyone__devicedetection__examples_1_1onpremise_1_1datafileupdate__console_1_1_data_file_update_console =
+[
+    [ "explain_license_key", "classfiftyone__devicedetection__examples_1_1onpremise_1_1datafileupdate__console_1_1_data_file_update_console.html#af0b66d6b4b4ef7c09d1478e7bff36e6e", null ],
+    [ "run", "classfiftyone__devicedetection__examples_1_1onpremise_1_1datafileupdate__console_1_1_data_file_update_console.html#af5ae0ea601487e1e974efdd841ed8c66", null ],
+    [ "update_programmatically", "classfiftyone__devicedetection__examples_1_1onpremise_1_1datafileupdate__console_1_1_data_file_update_console.html#a76cc05e36d3d072d50cf1807e76608ee", null ]
+];

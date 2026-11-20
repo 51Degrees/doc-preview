@@ -1,0 +1,4 @@
+var classfiftyone_1_1ipintelligence_1_1engine_1_1onpremise_1_1data_1_1_profile_meta_data_i_p_i =
+[
+    [ "ProfileMetaDataIPI", "classfiftyone_1_1ipintelligence_1_1engine_1_1onpremise_1_1data_1_1_profile_meta_data_i_p_i.html#a049bc173f85f336567319e7000872de2", null ]
+];

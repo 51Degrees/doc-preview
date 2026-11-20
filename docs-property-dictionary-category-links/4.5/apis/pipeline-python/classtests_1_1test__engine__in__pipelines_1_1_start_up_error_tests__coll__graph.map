@@ -1,0 +1,5 @@
+<map id="tests.test_engine_in_pipelines.StartUpErrorTests" name="tests.test_engine_in_pipelines.StartUpErrorTests">
+<area shape="rect" id="Node000001" title="An error the errors table does not name, raised by the update on start&#45;up while a Pipeline is built." alt="" coords="5,81,210,126"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="41,5,174,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,47,110,81,105,79,106,51"/>
+</map>

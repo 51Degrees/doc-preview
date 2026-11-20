@@ -1,0 +1,9 @@
+<map id="FiftyOne.Pipeline.DerivedProperty.Data.DerivedNode" name="FiftyOne.Pipeline.DerivedProperty.Data.DerivedNode">
+<area shape="rect" id="Node000001" title="A place in a parsed script, being a mapping, a sequence or a single value, with the line the place st..." alt="" coords="5,75,204,119"/>
+<area shape="rect" id="Node000002" href="$class_fifty_one_1_1_pipeline_1_1_derived_property_1_1_data_1_1_derived_mapping.html" title="A mapping of names to places." alt="" coords="255,5,476,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,68,281,49,276,52,207,73"/>
+<area shape="rect" id="Node000003" href="$class_fifty_one_1_1_pipeline_1_1_derived_property_1_1_data_1_1_derived_scalar.html" title="A single value written in the script." alt="" coords="263,75,468,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="219,94,265,96,260,98,219,100"/>
+<area shape="rect" id="Node000004" href="$class_fifty_one_1_1_pipeline_1_1_derived_property_1_1_data_1_1_derived_sequence.html" title="An ordered list of places." alt="" coords="252,144,479,189"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="206,121,281,143,276,144,206,127"/>
+</map>

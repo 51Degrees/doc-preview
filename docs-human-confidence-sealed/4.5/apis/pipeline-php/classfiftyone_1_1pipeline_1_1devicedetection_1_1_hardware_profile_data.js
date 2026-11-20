@@ -1,0 +1,9 @@
+var classfiftyone_1_1pipeline_1_1devicedetection_1_1_hardware_profile_data =
+[
+    [ "getIterator", "classfiftyone_1_1pipeline_1_1devicedetection_1_1_hardware_profile_data.html#a3ae15e1abae7479690c75db158679f0c", null ],
+    [ "jsonSerialize", "classfiftyone_1_1pipeline_1_1devicedetection_1_1_hardware_profile_data.html#aea8c1ec2f52f8e548d3559e11397b478", null ],
+    [ "offsetExists", "classfiftyone_1_1pipeline_1_1devicedetection_1_1_hardware_profile_data.html#aca34e2cd1441dcc3cac60dff310d748d", null ],
+    [ "offsetGet", "classfiftyone_1_1pipeline_1_1devicedetection_1_1_hardware_profile_data.html#a97ee2906f2c9d8dc32f326c208a95ddc", null ],
+    [ "offsetSet", "classfiftyone_1_1pipeline_1_1devicedetection_1_1_hardware_profile_data.html#a8151b1e34dbb9bffdca4b4233bfbc0b4", null ],
+    [ "offsetUnset", "classfiftyone_1_1pipeline_1_1devicedetection_1_1_hardware_profile_data.html#a5eb8aa8229f535b64350dd34805deb22", null ]
+];

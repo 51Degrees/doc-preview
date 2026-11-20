@@ -1,0 +1,9 @@
+var classtests_1_1test__clouduseragentclienthintsweb_1_1_cloud_user_agent_client_hints_web_tests =
+[
+    [ "setUp", "classtests_1_1test__clouduseragentclienthintsweb_1_1_cloud_user_agent_client_hints_web_tests.html#ab8eae6f22444c16ce6f4ea1ed79eff77", null ],
+    [ "setUpClass", "classtests_1_1test__clouduseragentclienthintsweb_1_1_cloud_user_agent_client_hints_web_tests.html#a386637c2da2bb78a59563ee8bdb3df59", null ],
+    [ "tearDownClass", "classtests_1_1test__clouduseragentclienthintsweb_1_1_cloud_user_agent_client_hints_web_tests.html#a75c615599c14972f115b62ae6bc9c643", null ],
+    [ "test_page_shows_the_evidence_used_and_the_results", "classtests_1_1test__clouduseragentclienthintsweb_1_1_cloud_user_agent_client_hints_web_tests.html#a105a7ccd94262af951da475d714088a3", null ],
+    [ "client", "classtests_1_1test__clouduseragentclienthintsweb_1_1_cloud_user_agent_client_hints_web_tests.html#a4de27c349f9f138466f56ea7f89e3927", null ],
+    [ "resource_key", "classtests_1_1test__clouduseragentclienthintsweb_1_1_cloud_user_agent_client_hints_web_tests.html#adaf95230ec6e401adac1fcdfcfd24ec0", null ]
+];
