@@ -1,0 +1,5 @@
+<map id="tests.test_datafileupdate_product.Stop" name="tests.test_datafileupdate_product.Stop">
+<area shape="rect" id="Node000001" title="Ends the example where it would build the pipeline that updates the data file." alt="" coords="5,81,189,126"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="54,5,140,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,47,100,81,94,79,95,51"/>
+</map>

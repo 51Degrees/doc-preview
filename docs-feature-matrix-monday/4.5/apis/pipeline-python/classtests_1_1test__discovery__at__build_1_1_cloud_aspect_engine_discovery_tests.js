@@ -1,0 +1,5 @@
+var classtests_1_1test__discovery__at__build_1_1_cloud_aspect_engine_discovery_tests =
+[
+    [ "test_a_missing_product_is_logged_once_discovery_completes", "classtests_1_1test__discovery__at__build_1_1_cloud_aspect_engine_discovery_tests.html#a80ba6ffceedb3f01133722e7bf83a878", null ],
+    [ "test_an_aspect_engine_builds_while_discovery_has_failed", "classtests_1_1test__discovery__at__build_1_1_cloud_aspect_engine_discovery_tests.html#abb50bed8fbe2e72f598585413e4849c0", null ]
+];

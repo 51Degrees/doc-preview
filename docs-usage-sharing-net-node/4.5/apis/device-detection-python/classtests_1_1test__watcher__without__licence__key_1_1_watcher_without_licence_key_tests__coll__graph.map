@@ -1,0 +1,5 @@
+<map id="tests.test_watcher_without_licence_key.WatcherWithoutLicenceKeyTests" name="tests.test_watcher_without_licence_key.WatcherWithoutLicenceKeyTests">
+<area shape="rect" id="Node000001" title="The file system watcher downloads nothing, so it needs no licence key." alt="" coords="5,81,221,143"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="46,5,180,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,47,116,81,110,80,111,51"/>
+</map>

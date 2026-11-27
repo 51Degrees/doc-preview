@@ -1,0 +1,5 @@
+<map id="fiftyone_pipeline_core.flowdata.ElementDataView" name="fiftyone_pipeline_core.flowdata.ElementDataView">
+<area shape="rect" id="Node000001" title="The Element Data of a FlowData, keyed by data key, as the list was when the view was taken." alt="" coords="5,81,234,126"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="54,5,185,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,47,122,81,117,79,118,51"/>
+</map>

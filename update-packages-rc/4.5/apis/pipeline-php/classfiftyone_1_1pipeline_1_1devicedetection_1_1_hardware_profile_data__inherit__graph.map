@@ -1,0 +1,19 @@
+<map id="fiftyone\pipeline\devicedetection\HardwareProfileData" name="fiftyone\pipeline\devicedetection\HardwareProfileData">
+<area shape="rect" id="Node000001" title="One profile the hardware profile lookup gives." alt="" coords="670,49,905,94"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="481,5,582,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="585,35,673,56,667,57,585,40"/>
+<area shape="poly" id="edge6_Node000001_Node000002" title=" " alt="" coords="597,22,717,48,712,49,597,27"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="464,57,600,85"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="615,77,672,80,667,81,615,82"/>
+<area shape="poly" id="edge8_Node000001_Node000003" title=" " alt="" coords="615,60,672,62,667,63,615,65"/>
+<area shape="rect" id="Node000004" href="$classfiftyone_1_1pipeline_1_1engines_1_1_aspect_data_dictionary.html" title="AspectData class extension that stores content as an array Similar to ElementDataDictionary in the Pi..." alt="" coords="441,109,622,154"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="637,104,692,94,687,95,638,109"/>
+<area shape="rect" id="Node000005" href="$classfiftyone_1_1pipeline_1_1engines_1_1_aspect_data.html" title=" " alt="" coords="212,109,393,154"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="408,129,443,131,438,132,409,134"/>
+<area shape="rect" id="Node000006" href="$classfiftyone_1_1pipeline_1_1core_1_1_element_data.html" title="Stores information created by a FlowElement based on FlowData." alt="" coords="5,109,164,154"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="179,129,214,130,209,132,180,134"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="488,177,575,205"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="589,175,621,163,692,128,750,95,755,93,694,133,623,168,591,180"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="470,229,594,257"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="607,221,621,214,664,186,704,153,764,95,769,93,708,157,668,190,624,219,609,226"/>
+</map>

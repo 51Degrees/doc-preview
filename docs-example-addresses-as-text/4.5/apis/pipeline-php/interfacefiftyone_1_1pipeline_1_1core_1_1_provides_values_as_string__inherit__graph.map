@@ -1,0 +1,5 @@
+<map id="fiftyone\pipeline\core\ProvidesValuesAsString" name="fiftyone\pipeline\core\ProvidesValuesAsString">
+<area shape="rect" id="Node000001" title="Implemented by Element Data that holds its Property values as strings and parses them into the type e..." alt="" coords="33,5,212,50"/>
+<area shape="rect" id="Node000002" href="$classfiftyone_1_1pipeline_1_1devicedetection_1_1_swig_data.html" title="Extension of AspectData that reads each property from the results the SWIG wrapper of the on&#45;premise ..." alt="" coords="5,98,240,143"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,64,125,99,120,97,121,68"/>
+</map>

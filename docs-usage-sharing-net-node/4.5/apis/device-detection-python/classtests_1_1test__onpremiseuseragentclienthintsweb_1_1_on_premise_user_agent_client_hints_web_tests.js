@@ -1,0 +1,11 @@
+var classtests_1_1test__onpremiseuseragentclienthintsweb_1_1_on_premise_user_agent_client_hints_web_tests =
+[
+    [ "get_page", "classtests_1_1test__onpremiseuseragentclienthintsweb_1_1_on_premise_user_agent_client_hints_web_tests.html#a38aab03f3d1f3b6ef08b78ff41affdfd", null ],
+    [ "setUp", "classtests_1_1test__onpremiseuseragentclienthintsweb_1_1_on_premise_user_agent_client_hints_web_tests.html#a0581b7f0853d88e9a162196666f96504", null ],
+    [ "setUpClass", "classtests_1_1test__onpremiseuseragentclienthintsweb_1_1_on_premise_user_agent_client_hints_web_tests.html#a761567fb6326fed982391ee6ed51e909", null ],
+    [ "tearDownClass", "classtests_1_1test__onpremiseuseragentclienthintsweb_1_1_on_premise_user_agent_client_hints_web_tests.html#a8f7f4a1b08c440efab7c29b3b14a986c", null ],
+    [ "test_page_offers_the_enterprise_data_file", "classtests_1_1test__onpremiseuseragentclienthintsweb_1_1_on_premise_user_agent_client_hints_web_tests.html#aecca315fa427847cdcd060addfa76650", null ],
+    [ "test_page_shows_the_evidence_used_and_the_browser", "classtests_1_1test__onpremiseuseragentclienthintsweb_1_1_on_premise_user_agent_client_hints_web_tests.html#aae4b9263befe3db4a18df10dc2876d75", null ],
+    [ "client", "classtests_1_1test__onpremiseuseragentclienthintsweb_1_1_on_premise_user_agent_client_hints_web_tests.html#a50ab4b3d06a6d155368ff6a680d969f6", null ],
+    [ "post_patch", "classtests_1_1test__onpremiseuseragentclienthintsweb_1_1_on_premise_user_agent_client_hints_web_tests.html#a0374263ffb451386a0ce703bb8b7b5ad", null ]
+];

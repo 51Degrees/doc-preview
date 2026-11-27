@@ -1,0 +1,5 @@
+<map id="tests.test_hardwareprofile_cloud.HardwareProfileAspectDataTests" name="tests.test_hardwareprofile_cloud.HardwareProfileAspectDataTests">
+<area shape="rect" id="Node000001" title="A profile is read in the way the device data is read, because each device detection engine returns As..." alt="" coords="5,81,285,126"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="78,5,212,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="147,47,147,82,143,79,143,51"/>
+</map>

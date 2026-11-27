@@ -1,0 +1,5 @@
+<map id="fiftyone\pipeline\core\PipelineEvidenceKeyFilter" name="fiftyone\pipeline\core\PipelineEvidenceKeyFilter">
+<area shape="rect" id="Node000001" title="The Evidence a Pipeline accepts, being every key that at least one of its FlowElements accepts." alt="" coords="5,98,199,143"/>
+<area shape="rect" id="Node000002" href="$classfiftyone_1_1pipeline_1_1core_1_1_evidence_key_filter.html" title=" " alt="" coords="23,5,181,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,64,104,99,100,97,100,68"/>
+</map>

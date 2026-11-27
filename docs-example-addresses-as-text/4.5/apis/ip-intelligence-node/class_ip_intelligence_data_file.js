@@ -1,0 +1,7 @@
+var class_ip_intelligence_data_file =
+[
+    [ "constructor", "class_ip_intelligence_data_file.html#a1463868ed9c1c524dd9b31d6c91e92fd", null ],
+    [ "getUpdateProduct", "class_ip_intelligence_data_file.html#a7ba175faf9089abca787c98e3eef8dce", null ],
+    [ "productInFile", "class_ip_intelligence_data_file.html#a7b22fa0f2354b561fcb4d7b5491d7396", null ],
+    [ "urlFormatter", "class_ip_intelligence_data_file.html#af1625f2dd88b9f61c8aa6d8460e4717a", null ]
+];

@@ -1,0 +1,33 @@
+<map id="tests.test_datafile_update_http.UpdateServiceTestCase" name="tests.test_datafile_update_http.UpdateServiceTestCase">
+<area shape="rect" id="Node000001" title=" " alt="" coords="187,500,392,561"/>
+<area shape="rect" id="Node000003" href="$classtests_1_1test__datafile__update__http_1_1_callback_tests.html" title=" " alt="" coords="462,5,662,50"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="289,483,297,395,306,340,320,281,339,221,365,163,397,108,438,60,464,45,460,49,442,64,402,112,369,165,344,223,325,282,312,341,303,395,294,485"/>
+<area shape="rect" id="Node000004" href="$classtests_1_1test__datafile__update__http_1_1_content_tests.html" title=" " alt="" coords="465,75,659,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="292,484,304,407,330,312,349,262,373,214,402,169,438,130,466,113,463,117,442,134,407,173,377,217,354,265,335,314,309,408,297,485"/>
+<area shape="rect" id="Node000005" href="$classtests_1_1test__datafile__update__http_1_1_downloaded_file_tests.html" title=" " alt="" coords="455,144,669,205"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="298,484,316,424,344,352,384,279,409,245,438,215,457,204,453,208,442,219,413,248,389,282,349,354,321,425,303,486"/>
+<area shape="rect" id="Node000006" href="$classtests_1_1test__datafile__update__http_1_1_file_replacement_tests.html" title=" " alt="" coords="452,229,672,290"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="307,484,328,441,358,392,394,343,438,300,459,289,455,293,442,304,398,346,362,395,333,444,312,487"/>
+<area shape="rect" id="Node000007" href="$classtests_1_1test__datafile__update__http_1_1_if_modified_since_tests.html" title=" " alt="" coords="457,314,667,376"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="324,486,375,434,406,408,439,385,463,375,459,378,441,390,409,412,379,438,328,489"/>
+<area shape="rect" id="Node000008" href="$classtests_1_1test__datafile__update__http_1_1_licence_key_tests.html" title=" " alt="" coords="454,400,670,445"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="360,490,439,455,476,444,472,447,441,459,364,494"/>
+<area shape="rect" id="Node000009" href="$classtests_1_1test__datafile__update__http_1_1_logging_tests.html" title=" " alt="" coords="465,469,659,514"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="406,511,467,504,462,507,409,516"/>
+<area shape="rect" id="Node000010" href="$classtests_1_1test__datafile__update__http_1_1_polled_check_error_tests.html" title="data&#45;updates.md lines 474 to 477 and the last row of the errors table." alt="" coords="452,538,673,600"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="406,545,453,552,449,554,408,550"/>
+<area shape="rect" id="Node000011" href="$classtests_1_1test__datafile__update__http_1_1_programmatic_check_tests.html" title=" " alt="" coords="441,624,683,685"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="357,567,441,609,470,622,465,624,439,614,357,572"/>
+<area shape="rect" id="Node000012" href="$classtests_1_1test__datafile__update__http_1_1_reporting_each_check_tests.html" title=" " alt="" coords="460,709,664,770"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="320,571,374,635,406,667,441,695,462,708,457,709,439,699,402,671,370,639,320,576"/>
+<area shape="rect" id="Node000013" href="$classtests_1_1test__datafile__update__http_1_1_several_products_tests.html" title=" " alt="" coords="454,794,670,856"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="307,573,329,623,358,678,396,733,442,780,459,793,453,794,438,784,392,736,354,681,325,625,306,579"/>
+<area shape="rect" id="Node000014" href="$classtests_1_1test__datafile__update__http_1_1_start_up_check_error_tests.html" title="An error the errors table does not name, raised in the update on start&#45;up." alt="" coords="447,880,677,941"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="300,574,318,640,345,718,364,758,386,797,412,833,442,866,458,879,452,879,438,870,408,837,381,800,359,761,340,720,313,642,298,579"/>
+<area shape="rect" id="Node000015" href="$classtests_1_1test__datafile__update__http_1_1_update_expected_time_tests.html" title=" " alt="" coords="454,965,671,1026"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="295,574,309,656,333,757,352,809,376,860,406,908,442,951,457,965,451,964,438,955,402,912,372,863,347,811,328,758,303,657,293,579"/>
+<area shape="rect" id="Node000016" href="$classtests_1_1test__datafile__update__http_1_1_update_from_memory_tests.html" title=" " alt="" coords="440,1050,684,1112"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="292,574,301,671,309,730,322,794,341,859,367,923,400,983,442,1036,456,1050,451,1049,438,1040,396,986,362,925,336,861,317,795,304,731,295,672,290,579"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,516,139,544"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,528,188,529,184,532,155,533"/>
+</map>

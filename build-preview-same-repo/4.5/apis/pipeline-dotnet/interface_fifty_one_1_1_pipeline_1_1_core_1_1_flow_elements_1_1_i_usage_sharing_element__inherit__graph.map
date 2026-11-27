@@ -1,0 +1,11 @@
+<map id="FiftyOne.Pipeline.Core.FlowElements.IUsageSharingElement" name="FiftyOne.Pipeline.Core.FlowElements.IUsageSharingElement">
+<area shape="rect" id="Node000001" title="Marks the usage sharing element." alt="" coords="31,174,265,218"/>
+<area shape="rect" id="Node000004" href="$class_fifty_one_1_1_pipeline_1_1_engines_1_1_fifty_one_1_1_flow_elements_1_1_share_usage_base.html" title="Abstract base class for ShareUsage elements." alt="" coords="5,266,291,311"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="149,231,151,267,145,265,147,236"/>
+<area shape="rect" id="Node000002" href="$interface_fifty_one_1_1_pipeline_1_1_core_1_1_flow_elements_1_1_i_flow_element.html" title="IFlowElement is the basic building block of a pipeline." alt="" coords="48,81,248,126"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="149,139,151,174,145,173,147,144"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="99,5,197,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="149,46,151,81,145,80,147,51"/>
+<area shape="rect" id="Node000005" href="$class_fifty_one_1_1_pipeline_1_1_engines_1_1_fifty_one_1_1_flow_elements_1_1_share_usage_element.html" title="Flow element that sends usage data to 51Degrees for analysis." alt="" coords="21,359,275,421"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="150,324,150,360,146,357,146,329"/>
+</map>

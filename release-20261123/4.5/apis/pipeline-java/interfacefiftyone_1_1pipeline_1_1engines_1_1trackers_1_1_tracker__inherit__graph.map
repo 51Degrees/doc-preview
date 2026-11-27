@@ -1,0 +1,9 @@
+<map id="fiftyone.pipeline.engines.trackers.Tracker" name="fiftyone.pipeline.engines.trackers.Tracker">
+<area shape="rect" id="Node000001" title="Represents a &#39;tracker&#39;." alt="" coords="5,40,247,85"/>
+<area shape="rect" id="Node000002" href="$classfiftyone_1_1pipeline_1_1engines_1_1trackers_1_1_tracker_base.html" title="The abstract base class for trackers." alt="" coords="296,40,537,85"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="262,60,298,62,293,63,262,65"/>
+<area shape="rect" id="Node000003" href="$classfiftyone_1_1pipeline_1_1engines_1_1fiftyone_1_1trackers_1_1_share_usage_tracker.html" title="A tracker used by share usage to attempt to avoid repeatedly sending data relating to the same user s..." alt="" coords="654,5,949,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="552,47,657,41,651,41,553,53"/>
+<area shape="rect" id="Node000004" href="$classfiftyone_1_1pipeline_1_1engines_1_1trackers_1_1_tracker_base.html" title=" " alt="" coords="681,75,922,119"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="553,76,562,77,683,89,678,89,561,82,553,81"/>
+</map>

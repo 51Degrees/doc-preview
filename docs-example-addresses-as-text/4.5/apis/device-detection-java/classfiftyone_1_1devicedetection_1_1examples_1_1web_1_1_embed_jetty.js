@@ -1,0 +1,5 @@
+var classfiftyone_1_1devicedetection_1_1examples_1_1web_1_1_embed_jetty =
+[
+    [ "portFrom", "classfiftyone_1_1devicedetection_1_1examples_1_1web_1_1_embed_jetty.html#a4677913d0778339519becabae96b3b40", null ],
+    [ "HTTP_PORTS_ENV_VAR", "classfiftyone_1_1devicedetection_1_1examples_1_1web_1_1_embed_jetty.html#ac62642dcd1593c7cc21b9a7d7210007e", null ]
+];

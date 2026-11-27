@@ -1,0 +1,8 @@
+var classtests_1_1data__update__standin_1_1_handler =
+[
+    [ "__init__", "classtests_1_1data__update__standin_1_1_handler.html#a16323cb27b85c0c8ac77149beec78a05", null ],
+    [ "answer", "classtests_1_1data__update__standin_1_1_handler.html#a6d4351bb9e91323dfef975a714c40e67", null ],
+    [ "do_GET", "classtests_1_1data__update__standin_1_1_handler.html#ab2e140303353bab470e04158c3d5a85f", null ],
+    [ "log_message", "classtests_1_1data__update__standin_1_1_handler.html#afe8466662c024dff406d52d9fa43f6f7", null ],
+    [ "stand_in", "classtests_1_1data__update__standin_1_1_handler.html#a5e24bca906f9ee7772f6c287b42dc027", null ]
+];

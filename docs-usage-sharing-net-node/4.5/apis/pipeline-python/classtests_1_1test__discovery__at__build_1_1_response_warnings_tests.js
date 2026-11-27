@@ -1,0 +1,6 @@
+var classtests_1_1test__discovery__at__build_1_1_response_warnings_tests =
+[
+    [ "process_recording_warnings", "classtests_1_1test__discovery__at__build_1_1_response_warnings_tests.html#a10f57ff1b38b253ea25f772710918735", null ],
+    [ "test_a_licence_key_in_a_warning_is_masked", "classtests_1_1test__discovery__at__build_1_1_response_warnings_tests.html#a6bbcd030dc762f36f25e2c6af85adc76", null ],
+    [ "test_each_warning_in_an_answer_is_logged", "classtests_1_1test__discovery__at__build_1_1_response_warnings_tests.html#a458dc95cea0d4d44700100616b5c2e42", null ]
+];

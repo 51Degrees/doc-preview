@@ -1,0 +1,11 @@
+var classtests_1_1test__discovery__at__build_1_1_discovery_at_build_tests =
+[
+    [ "test_a_licence_key_alone_makes_both_discovery_requests", "classtests_1_1test__discovery__at__build_1_1_discovery_at_build_tests.html#a02f5e388fa380833863337b9afe5c6ea", null ],
+    [ "test_a_refusal_fails_the_build", "classtests_1_1test__discovery__at__build_1_1_discovery_at_build_tests.html#ab87a698c9431e0f203023c31ae0b2b55", null ],
+    [ "test_a_refusal_fails_the_build_beside_a_transient_failure", "classtests_1_1test__discovery__at__build_1_1_discovery_at_build_tests.html#ad2d1c4169a1eaf0f36ba3b15136a16e8", null ],
+    [ "test_a_refusal_whose_body_is_not_json_fails_the_build", "classtests_1_1test__discovery__at__build_1_1_discovery_at_build_tests.html#adec6a86c5ae2f3eee34c7c27090abceb", null ],
+    [ "test_a_retry_that_fails_again_is_an_error_of_that_processing", "classtests_1_1test__discovery__at__build_1_1_discovery_at_build_tests.html#a2194cd08cdf8892d18a4868ae2966ed7", null ],
+    [ "test_a_transient_failure_lets_the_build_complete", "classtests_1_1test__discovery__at__build_1_1_discovery_at_build_tests.html#a3bf51193852629aef9cfbd55cbb10a0b", null ],
+    [ "test_building_makes_both_discovery_requests", "classtests_1_1test__discovery__at__build_1_1_discovery_at_build_tests.html#a78beab80a5793fbadd891414ecc32235", null ],
+    [ "test_the_next_use_retries_after_a_transient_failure", "classtests_1_1test__discovery__at__build_1_1_discovery_at_build_tests.html#ab4d86ab322551a6b32eccc95b61ff35a", null ]
+];

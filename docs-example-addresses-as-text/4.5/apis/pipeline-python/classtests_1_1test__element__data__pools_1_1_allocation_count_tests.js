@@ -1,0 +1,7 @@
+var classtests_1_1test__element__data__pools_1_1_allocation_count_tests =
+[
+    [ "test_each_core_element_makes_one_instance_over_many_requests", "classtests_1_1test__element__data__pools_1_1_allocation_count_tests.html#a4398a19cd89ee2f5f289588745fef6df", null ],
+    [ "test_requests_at_once_make_no_more_instances_than_the_bound", "classtests_1_1test__element__data__pools_1_1_allocation_count_tests.html#a9c42c2baa12e2b58cf28e002956f4274", null ],
+    [ "test_the_pool_keeps_no_more_than_its_bound", "classtests_1_1test__element__data__pools_1_1_allocation_count_tests.html#ac505a500da7a28b82f4a1cc9bb655d0b", null ],
+    [ "test_threads_make_no_more_instances_than_run_at_once", "classtests_1_1test__element__data__pools_1_1_allocation_count_tests.html#a02c1730a6a4034940a88174e494402ef", null ]
+];

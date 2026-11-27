@@ -1,0 +1,97 @@
+<map id="fiftyone_pipeline_core.flowelement.FlowElement" name="fiftyone_pipeline_core.flowelement.FlowElement">
+<area shape="rect" id="Node000001" title="A FlowElement is placed inside a Pipeline It receives Evidence via a FlowData object It uses this to ..." alt="" coords="115,1287,368,1331"/>
+<area shape="rect" id="Node000003" href="$classaccepteverykeyelement_1_1_accept_every_key_element.html" title="An element that accepts every evidence key and does nothing else." alt="" coords="448,5,675,50"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="240,1271,243,1028,251,854,264,664,285,475,316,301,336,225,358,158,384,103,414,61,429,47,449,38,446,42,432,52,418,64,389,105,363,160,341,227,321,303,290,476,269,665,256,854,249,1028,245,1271"/>
+<area shape="rect" id="Node000004" href="$classexamples_1_1client__side__evidence__custom__flow__element_1_1_astrology_flow_element.html" title=" " alt="" coords="445,74,678,136"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="240,1271,247,1044,256,882,271,707,293,532,323,371,342,300,363,237,387,186,414,146,446,123,443,128,418,149,392,188,368,239,347,301,328,372,298,532,276,707,262,883,253,1044,246,1272"/>
+<area shape="rect" id="Node000005" href="$classfiftyone__pipeline__core_1_1javascriptbuilder_1_1_javascript_builder_element.html" title="The JavaScriptBuilder aggregates JavaScript properties from FlowElements in the Pipeline." alt="" coords="422,160,702,205"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="241,1271,248,1055,258,903,273,738,295,574,325,423,343,357,364,300,388,252,414,215,431,203,429,207,418,219,392,254,369,302,349,359,330,425,301,575,279,739,263,903,254,1056,246,1271"/>
+<area shape="rect" id="Node000006" href="$classfiftyone__pipeline__core_1_1jsonbundler_1_1_j_s_o_n_bundler_element.html" title="The JSONBundler aggregates all properties from FlowElements into a JSON object It is used for retriev..." alt="" coords="438,229,685,274"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="241,1271,251,1068,262,925,278,771,300,618,329,478,347,417,367,363,389,318,414,284,439,267,436,272,418,288,394,321,372,365,352,418,334,480,305,619,283,772,267,926,256,1068,246,1272"/>
+<area shape="rect" id="Node000007" href="$classfiftyone__pipeline__core_1_1sequenceelement_1_1_sequence_element.html" title="The SequenceElement stores session data regarding requests for client side JavaScript from the JavaSc..." alt="" coords="418,299,706,343"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="242,1271,253,1079,265,947,282,804,304,662,333,533,351,476,370,426,391,385,414,354,431,341,429,346,418,357,395,388,374,429,356,478,339,534,310,663,287,805,271,947,259,1080,247,1271"/>
+<area shape="rect" id="Node000008" href="$classfiftyone__pipeline__core_1_1setheaderelement_1_1_set_header_element.html" title="Set response headers element class." alt="" coords="416,368,707,413"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="242,1271,256,1092,269,969,286,837,309,707,337,588,372,490,392,452,414,423,431,411,429,415,418,427,397,455,377,492,343,589,314,708,292,838,274,970,261,1093,247,1272"/>
+<area shape="rect" id="Node000009" href="$classfiftyone__pipeline__engines_1_1engine_1_1_engine.html" title="An engine is an extension of the FlowElement class that adds extra functionality." alt="" coords="442,437,681,482"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="243,1271,259,1104,291,870,314,751,342,642,375,553,394,519,414,492,443,474,440,478,418,496,398,522,380,556,347,644,319,752,296,871,264,1105,248,1271"/>
+<area shape="rect" id="Node000018" href="$classtests_1_1classes_1_1apvflowelement_1_1_a_p_v_flow_element.html" title=" " alt="" coords="452,507,671,551"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="244,1271,262,1117,295,904,319,796,346,697,378,617,395,586,414,562,431,548,454,539,450,543,434,553,418,566,400,589,382,619,351,699,324,797,301,905,267,1118,249,1272"/>
+<area shape="rect" id="Node000019" href="$classtests_1_1classes_1_1errorflowdata_1_1_error_flow_data.html" title=" " alt="" coords="462,576,662,621"/>
+<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="245,1271,265,1129,300,938,323,841,350,752,380,680,397,652,414,631,436,615,463,605,459,609,438,620,418,635,401,655,385,683,355,754,329,842,305,939,270,1130,250,1271"/>
+<area shape="rect" id="Node000020" href="$classtests_1_1classes_1_1exampleflowelement1_1_1_example_flow_element1.html" title=" " alt="" coords="432,645,691,690"/>
+<area shape="poly" id="edge19_Node000001_Node000020" title=" " alt="" coords="246,1271,268,1143,305,972,328,886,354,808,383,744,398,719,414,700,433,688,430,692,418,704,403,722,388,746,359,810,333,887,310,973,273,1144,251,1272"/>
+<area shape="rect" id="Node000021" href="$classtests_1_1classes_1_1exampleflowelement2_1_1_example_flow_element2.html" title=" " alt="" coords="432,715,691,759"/>
+<area shape="poly" id="edge20_Node000001_Node000021" title=" " alt="" coords="240,1271,248,1171,257,1106,272,1036,294,963,325,893,364,827,414,770,434,757,431,762,418,774,368,830,329,895,299,965,278,1037,263,1107,253,1171,246,1272"/>
+<area shape="rect" id="Node000022" href="$classtests_1_1classes_1_1stopflowdata_1_1_stop_flow_data.html" title=" " alt="" coords="463,784,660,829"/>
+<area shape="poly" id="edge21_Node000001_Node000022" title=" " alt="" coords="242,1271,254,1182,265,1126,282,1066,304,1004,333,944,369,888,414,839,436,824,464,814,461,818,439,829,418,843,373,891,337,946,309,1006,287,1067,271,1127,259,1183,248,1272"/>
+<area shape="rect" id="Node000023" href="$classtests_1_1test__close_1_1_broken_element.html" title=" " alt="" coords="448,852,675,880"/>
+<area shape="poly" id="edge22_Node000001_Node000023" title=" " alt="" coords="244,1271,257,1190,287,1086,309,1032,337,979,372,931,414,890,450,872,447,876,418,894,376,934,342,982,314,1034,292,1088,263,1192,249,1272"/>
+<area shape="rect" id="Node000024" href="$classtests_1_1test__close_1_1_closing_element.html" title=" " alt="" coords="474,904,649,949"/>
+<area shape="poly" id="edge23_Node000001_Node000024" title=" " alt="" coords="248,1271,266,1203,299,1119,321,1075,347,1032,378,993,414,959,442,942,475,932,472,936,444,947,418,963,382,997,352,1035,325,1077,304,1121,271,1205,253,1272"/>
+<area shape="rect" id="Node000025" href="$classtests_1_1test__close_1_1_failing_element.html" title=" " alt="" coords="477,973,646,1018"/>
+<area shape="poly" id="edge24_Node000001_Node000025" title=" " alt="" coords="253,1271,275,1216,310,1150,356,1084,384,1054,414,1028,444,1012,478,1002,475,1006,446,1017,418,1033,387,1058,360,1087,314,1153,280,1218,258,1272"/>
+<area shape="rect" id="Node000026" href="$classtests_1_1test__close_1_1_plain_element.html" title=" " alt="" coords="455,1042,668,1070"/>
+<area shape="poly" id="edge25_Node000001_Node000026" title=" " alt="" coords="257,1272,282,1226,317,1173,361,1121,387,1098,415,1079,456,1063,453,1067,417,1083,390,1103,365,1125,321,1176,286,1229,262,1274"/>
+<area shape="rect" id="Node000027" href="$classtests_1_1test__close_1_1_recorded_element.html" title=" " alt="" coords="468,1093,656,1138"/>
+<area shape="poly" id="edge26_Node000001_Node000027" title=" " alt="" coords="268,1273,331,1209,371,1176,415,1148,469,1129,465,1133,417,1153,374,1180,335,1213,273,1276"/>
+<area shape="rect" id="Node000028" href="$classtests_1_1test__cloudengine__missing__product_1_1_fake_cloud_request_engine.html" title=" " alt="" coords="432,1162,691,1224"/>
+<area shape="poly" id="edge27_Node000001_Node000028" title=" " alt="" coords="304,1278,415,1233,451,1223,447,1226,417,1238,308,1282"/>
+<area shape="rect" id="Node000029" href="$classtests_1_1test__cloudengine__wkt_1_1_fake_cloud_request_engine.html" title=" " alt="" coords="452,1248,671,1293"/>
+<area shape="poly" id="edge28_Node000001_Node000029" title=" " alt="" coords="382,1290,454,1282,450,1285,385,1294"/>
+<area shape="rect" id="Node000030" href="$classtests_1_1test__default__elements__accept_1_1_declares_nothing_element.html" title=" " alt="" coords="436,1317,687,1378"/>
+<area shape="poly" id="edge29_Node000001_Node000030" title=" " alt="" coords="382,1324,438,1331,434,1334,385,1328"/>
+<area shape="rect" id="Node000031" href="$classtests_1_1test__javascriptbuilder_1_1_cookie_engine.html" title=" " alt="" coords="461,1403,662,1447"/>
+<area shape="poly" id="edge30_Node000001_Node000031" title=" " alt="" coords="298,1336,356,1363,417,1388,463,1403,458,1405,415,1393,354,1368,300,1341"/>
+<area shape="rect" id="Node000032" href="$classtests_1_1test__javascriptbuilder_1_1_delayed_execution_engine1.html" title=" " alt="" coords="461,1472,662,1517"/>
+<area shape="poly" id="edge31_Node000001_Node000032" title=" " alt="" coords="271,1340,336,1401,375,1432,417,1457,463,1476,458,1478,415,1462,372,1436,333,1405,273,1345"/>
+<area shape="rect" id="Node000033" href="$classtests_1_1test__javascriptbuilder_1_1_delayed_execution_engine2.html" title=" " alt="" coords="461,1541,662,1586"/>
+<area shape="poly" id="edge32_Node000001_Node000033" title=" " alt="" coords="261,1343,289,1387,324,1437,367,1486,417,1527,463,1548,458,1550,415,1531,363,1490,319,1440,284,1390,261,1348"/>
+<area shape="rect" id="Node000034" href="$classtests_1_1test__javascriptbuilder_1_1_delayed_execution_engine3.html" title=" " alt="" coords="461,1611,662,1655"/>
+<area shape="poly" id="edge33_Node000001_Node000034" title=" " alt="" coords="254,1343,279,1401,312,1470,358,1539,386,1569,418,1596,438,1609,463,1619,458,1621,436,1613,414,1601,383,1573,354,1542,308,1472,274,1404,254,1349"/>
+<area shape="rect" id="Node000035" href="$classtests_1_1test__javascriptbuilder_1_1_test_engine.html" title=" " alt="" coords="461,1680,662,1725"/>
+<area shape="poly" id="edge34_Node000001_Node000035" title=" " alt="" coords="250,1344,270,1415,302,1502,324,1547,350,1591,381,1631,418,1666,438,1679,463,1690,458,1692,436,1683,414,1670,377,1634,346,1594,319,1549,297,1504,265,1416,250,1349"/>
+<area shape="rect" id="Node000036" href="$classtests_1_1test__javascriptbuilder__no__sequence_1_1_stand_in_json_builder.html" title=" " alt="" coords="442,1749,681,1794"/>
+<area shape="poly" id="edge35_Node000001_Node000036" title=" " alt="" coords="247,1344,263,1428,292,1533,314,1589,342,1642,376,1692,418,1735,444,1753,439,1754,414,1739,372,1695,338,1645,309,1591,287,1535,258,1429,246,1350"/>
+<area shape="rect" id="Node000037" href="$classtests_1_1test__javascriptbuilder__no__sequence_1_1_stand_in_sequence_element.html" title=" " alt="" coords="420,1819,703,1863"/>
+<area shape="poly" id="edge36_Node000001_Node000037" title=" " alt="" coords="244,1344,257,1440,267,1500,283,1564,305,1630,334,1694,371,1753,418,1804,435,1818,430,1819,414,1808,367,1756,329,1696,300,1632,278,1565,262,1501,251,1441,244,1350"/>
+<area shape="rect" id="Node000038" href="$classtests_1_1test__jsonbundler__delayexecution_1_1_delayed_element.html" title=" " alt="" coords="442,1888,681,1933"/>
+<area shape="poly" id="edge37_Node000001_Node000038" title=" " alt="" coords="242,1344,251,1451,259,1520,274,1594,295,1670,326,1744,366,1814,390,1845,418,1874,444,1892,439,1894,414,1878,386,1848,362,1817,321,1747,290,1672,269,1595,254,1520,245,1452,242,1349"/>
+<area shape="rect" id="Node000039" href="$classtests_1_1test__jsonbundler__excludes_1_1_stand_in_cloud_request_engine.html" title=" " alt="" coords="447,1957,676,2018"/>
+<area shape="poly" id="edge38_Node000001_Node000039" title=" " alt="" coords="248,1344,273,1479,309,1658,333,1749,359,1831,387,1898,402,1924,418,1943,449,1966,444,1967,414,1947,398,1927,382,1900,354,1833,327,1750,304,1660,267,1480,248,1349"/>
+<area shape="rect" id="Node000040" href="$classtests_1_1test__jsonbundler__lower__case_1_1_mixed_case_element.html" title=" " alt="" coords="446,2043,677,2087"/>
+<area shape="poly" id="edge39_Node000001_Node000040" title=" " alt="" coords="247,1344,268,1496,302,1701,325,1805,352,1900,383,1977,400,2006,418,2028,449,2050,443,2051,414,2032,396,2009,379,1979,347,1902,320,1807,297,1702,263,1497,246,1350"/>
+<area shape="rect" id="Node000041" href="$classtests_1_1test__jsonbundler__records_1_1_profiles_element.html" title=" " alt="" coords="470,2112,653,2157"/>
+<area shape="poly" id="edge40_Node000001_Node000041" title=" " alt="" coords="246,1345,265,1509,298,1735,321,1850,348,1955,381,2041,399,2073,418,2098,442,2115,472,2128,467,2129,440,2120,414,2102,394,2076,376,2043,343,1957,315,1852,293,1736,260,1510,246,1350"/>
+<area shape="rect" id="Node000042" href="$classtests_1_1test__jsonbundler__sequence__required_1_1_keeps_the_sequence.html" title=" " alt="" coords="421,2181,702,2226"/>
+<area shape="poly" id="edge41_Node000001_Node000042" title=" " alt="" coords="245,1344,262,1522,275,1641,293,1769,316,1895,344,2010,378,2104,397,2140,418,2167,433,2181,427,2181,414,2171,393,2143,373,2106,339,2011,311,1896,288,1770,270,1642,257,1522,245,1350"/>
+<area shape="rect" id="Node000043" href="$classtests_1_1test__jsonbundler__wkt_1_1_areas_element.html" title=" " alt="" coords="479,2251,644,2295"/>
+<area shape="poly" id="edge42_Node000001_Node000043" title=" " alt="" coords="245,1344,260,1534,272,1663,289,1802,311,1939,340,2065,357,2120,375,2168,396,2207,418,2236,446,2256,481,2269,476,2270,444,2261,414,2240,391,2210,371,2170,352,2121,335,2066,306,1940,284,1803,266,1664,254,1535,244,1350"/>
+<area shape="rect" id="Node000044" href="$classtests_1_1test__share__usage__accepts__no__evidence_1_1_user_agent_element.html" title=" " alt="" coords="442,2320,681,2381"/>
+<area shape="poly" id="edge43_Node000001_Node000044" title=" " alt="" coords="244,1344,258,1546,270,1684,286,1834,309,1982,338,2118,355,2178,374,2230,395,2273,418,2306,444,2328,439,2328,414,2309,390,2276,369,2232,350,2180,332,2120,303,1983,281,1834,264,1685,253,1546,244,1350"/>
+<area shape="rect" id="Node000045" href="$classtests_1_1test__web__client__side_1_1_listed.html" title=" " alt="" coords="482,2405,641,2450"/>
+<area shape="poly" id="edge44_Node000001_Node000045" title=" " alt="" coords="244,1344,254,1562,264,1713,279,1876,301,2038,331,2187,349,2252,369,2309,392,2356,418,2391,447,2412,484,2425,479,2426,445,2417,414,2395,388,2359,365,2311,344,2254,326,2188,296,2039,274,1877,259,1713,249,1562,243,1350"/>
+<area shape="rect" id="Node000046" href="$classtests_1_1test__web__client__side_1_1_switchable.html" title=" " alt="" coords="482,2475,641,2519"/>
+<area shape="poly" id="edge45_Node000001_Node000046" title=" " alt="" coords="243,1344,252,1574,260,1735,275,1909,297,2083,327,2242,345,2312,367,2372,391,2423,418,2460,447,2481,484,2495,479,2495,445,2486,414,2464,386,2425,362,2375,340,2313,322,2243,291,2084,270,1910,255,1735,246,1574,243,1350"/>
+<area shape="rect" id="Node000047" href="$classtests_1_1test__web__client__side_1_1_unlisted.html" title=" " alt="" coords="482,2544,641,2589"/>
+<area shape="poly" id="edge46_Node000001_Node000047" title=" " alt="" coords="243,1344,249,1586,257,1756,271,1942,292,2127,323,2296,342,2371,364,2436,389,2489,418,2530,447,2551,484,2564,479,2564,445,2555,414,2534,385,2492,359,2438,337,2372,317,2298,287,2128,265,1942,252,1757,244,1586,242,1350"/>
+<area shape="rect" id="Node000048" href="$classtests_1_1test__web__integration__elements_1_1_user_element.html" title=" " alt="" coords="464,2613,659,2658"/>
+<area shape="poly" id="edge47_Node000001_Node000048" title=" " alt="" coords="243,1344,247,1597,254,1778,267,1974,288,2171,319,2351,338,2430,361,2499,388,2556,418,2599,439,2616,466,2630,461,2629,437,2621,414,2603,383,2559,356,2501,333,2432,313,2352,282,2171,261,1975,248,1778,242,1597,242,1349"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,1295,67,1323"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,1307,116,1307,112,1311,84,1311"/>
+<area shape="rect" id="Node000010" href="$classfiftyone__pipeline__cloudrequestengine_1_1cloudengine_1_1_cloud_engine.html" title="This is a template for all 51Degrees cloud engines." alt="" coords="780,333,1131,378"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="690,430,706,423,720,414,729,405,739,396,754,388,791,377,787,380,756,393,743,401,733,409,723,419,709,427,694,433"/>
+<area shape="rect" id="Node000015" href="$classfiftyone__pipeline__cloudrequestengine_1_1cloudrequestengine_1_1_cloud_request_engine.html" title=" " alt="" coords="755,403,1156,447"/>
+<area shape="poly" id="edge14_Node000009_Node000015" title=" " alt="" coords="695,446,757,441,753,444,698,450"/>
+<area shape="rect" id="Node000016" href="$classfiftyone__pipeline__engines__fiftyone_1_1share__usage_1_1_share_usage.html" title=" " alt="" coords="833,472,1078,517"/>
+<area shape="poly" id="edge15_Node000009_Node000016" title=" " alt="" coords="695,469,835,482,830,485,698,474"/>
+<area shape="rect" id="Node000017" href="$classtests_1_1test__engines_1_1_example_aspect_engine.html" title=" " alt="" coords="855,541,1056,586"/>
+<area shape="poly" id="edge16_Node000009_Node000017" title=" " alt="" coords="690,485,709,492,723,501,733,510,743,519,756,527,805,543,857,554,852,557,804,548,754,531,739,523,729,514,720,505,706,497,693,490"/>
+<area shape="rect" id="Node000011" href="$classfiftyone__pipeline__examples_1_1cloud_1_1engines_1_1_device_detection_cloud.html" title="Device detection results, read from the &quot;device&quot; section of the cloud response and available as flowd..." alt="" coords="1204,299,1502,343"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="1145,337,1206,332,1201,336,1148,341"/>
+<area shape="rect" id="Node000012" href="$classfiftyone__pipeline__examples_1_1cloud_1_1engines_1_1_weighted_cloud_engine.html" title="A cloud engine whose section includes weighted values." alt="" coords="1204,368,1502,413"/>
+<area shape="poly" id="edge11_Node000010_Node000012" title=" " alt="" coords="1146,370,1206,376,1201,379,1148,375"/>
+<area shape="rect" id="Node000013" href="$classfiftyone__pipeline__examples_1_1cloud_1_1engines_1_1_countries_translation_cloud.html" title="Country names translated by the cloud service, read from the &quot;countrynamestranslated&quot; section of the ..." alt="" coords="1550,333,1848,378"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="1516,372,1552,369,1547,372,1519,376"/>
+<area shape="rect" id="Node000014" href="$classfiftyone__pipeline__examples_1_1cloud_1_1engines_1_1_ip_intelligence_cloud.html" title="IP intelligence results, read from the &quot;ip&quot; section of the cloud response and available as flowdata...." alt="" coords="1550,403,1848,447"/>
+<area shape="poly" id="edge13_Node000012_Node000014" title=" " alt="" coords="1516,404,1552,409,1547,411,1519,409"/>
+</map>

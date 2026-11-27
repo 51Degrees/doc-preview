@@ -1,0 +1,5 @@
+var classtests_1_1test__finished__writes_1_1_closing_data =
+[
+    [ "close", "classtests_1_1test__finished__writes_1_1_closing_data.html#aad63cca01b0e7de0e63118d8a16d85ca", null ],
+    [ "closed", "classtests_1_1test__finished__writes_1_1_closing_data.html#af6d5265ebf873c28a1b6805c29c16103", null ]
+];

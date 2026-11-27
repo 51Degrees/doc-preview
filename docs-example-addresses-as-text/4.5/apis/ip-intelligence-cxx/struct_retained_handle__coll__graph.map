@@ -1,0 +1,8 @@
+<map id="RetainedHandle" name="RetainedHandle">
+<area shape="rect" id="Node000001" title="A handle and what keeps its memory allocated." alt="" coords="5,128,131,156"/>
+<area shape="rect" id="Node000002" href="$structfiftyone_degrees_resource_handle.html" title="Handle for a shared resource." alt="" coords="82,5,312,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,41,118,59,103,76,91,94,75,129,70,126,86,92,99,72,114,55,144,38"/>
+<area shape="rect" id="Node000003" href="$structfiftyone_degrees_resource_manager.html" title="Manager structure used to provide access to a shared and changing resource." alt="" coords="155,128,397,156"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="190,46,188,77,190,90,196,103,208,116,225,128,220,127,204,120,191,106,185,92,183,77,187,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="268,112,259,86,245,59,220,36,221,31,249,55,264,84,273,114"/>
+</map>

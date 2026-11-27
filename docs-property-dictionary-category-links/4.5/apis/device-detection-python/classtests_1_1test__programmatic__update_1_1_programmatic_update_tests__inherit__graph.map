@@ -1,0 +1,5 @@
+<map id="tests.test_programmatic_update.ProgrammaticUpdateTests" name="tests.test_programmatic_update.ProgrammaticUpdateTests">
+<area shape="rect" id="Node000001" title="An update the application asks for, with no automatic update of any kind." alt="" coords="5,81,255,126"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="63,5,197,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,47,132,81,128,79,128,51"/>
+</map>

@@ -1,0 +1,10 @@
+var classtests_1_1test__pipeline__read__only_1_1_pipeline_cannot_be_changed_tests =
+[
+    [ "test_adding_to_the_lookup_raises_and_changes_nothing", "classtests_1_1test__pipeline__read__only_1_1_pipeline_cannot_be_changed_tests.html#a5d4060ae2a97e6c85edf8a93aab96e4f", null ],
+    [ "test_appending_an_element_raises_and_it_does_not_run", "classtests_1_1test__pipeline__read__only_1_1_pipeline_cannot_be_changed_tests.html#a17483d2e786aff172ec4cf11fb4a5aac", null ],
+    [ "test_binding_the_attributes_again_raises_and_changes_nothing", "classtests_1_1test__pipeline__read__only_1_1_pipeline_cannot_be_changed_tests.html#a15ce33c952a31fe87faa30c2e5293b4f", null ],
+    [ "test_changing_the_data_keys_in_messages_raises", "classtests_1_1test__pipeline__read__only_1_1_pipeline_cannot_be_changed_tests.html#afd1b08a4d1ce17f1aa7fb3bdbcea0f64", null ],
+    [ "test_changing_the_list_given_to_the_pipeline_changes_nothing", "classtests_1_1test__pipeline__read__only_1_1_pipeline_cannot_be_changed_tests.html#abd73185716c15c95228eacad6a442bd3", null ],
+    [ "test_removing_from_the_lookup_raises_and_changes_nothing", "classtests_1_1test__pipeline__read__only_1_1_pipeline_cannot_be_changed_tests.html#a9a1badb25b132ccf954c66fcf6bf217c", null ],
+    [ "test_replacing_or_removing_an_element_raises", "classtests_1_1test__pipeline__read__only_1_1_pipeline_cannot_be_changed_tests.html#ae4136f78320e70311db99d1f7dff69ab", null ]
+];

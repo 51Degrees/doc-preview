@@ -1,0 +1,10 @@
+var classtests_1_1test__hardware__lookup__output_1_1_vendor_and_model_tests =
+[
+    [ "test_a_device_line_gives_its_vendor_and_model", "classtests_1_1test__hardware__lookup__output_1_1_vendor_and_model_tests.html#a80520edfead79aa72bf89dfe868b85e4", null ],
+    [ "test_a_line_with_nothing_before_the_model_is_not_a_device", "classtests_1_1test__hardware__lookup__output_1_1_vendor_and_model_tests.html#a565eb685158724838b5ca9f3b861e069", null ],
+    [ "test_a_line_with_unbalanced_parentheses_is_not_a_device", "classtests_1_1test__hardware__lookup__output_1_1_vendor_and_model_tests.html#a591f40b5e8e652cbe9c3d53d205c5878", null ],
+    [ "test_a_model_holding_parentheses_is_read_whole", "classtests_1_1test__hardware__lookup__output_1_1_vendor_and_model_tests.html#a0342354efb417c2231fa61363d264485", null ],
+    [ "test_an_empty_model_is_read_as_empty", "classtests_1_1test__hardware__lookup__output_1_1_vendor_and_model_tests.html#ae6e4a214027fecee094b1204967622a4", null ],
+    [ "test_an_unknown_model_is_read_with_its_reason", "classtests_1_1test__hardware__lookup__output_1_1_vendor_and_model_tests.html#a4cd462b3a015776a18dde26cdefe1f8a", null ],
+    [ "test_the_no_devices_line_is_not_a_device", "classtests_1_1test__hardware__lookup__output_1_1_vendor_and_model_tests.html#a51d4bec5683b050e88614975b2eebe4c", null ]
+];

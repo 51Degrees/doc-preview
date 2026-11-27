@@ -1,0 +1,5 @@
+var class_aspect_data_dictionary =
+[
+    [ "constructor", "class_aspect_data_dictionary.html#ab08db4763e01306846064a7568f014eb", null ],
+    [ "reset", "class_aspect_data_dictionary.html#a2ee5c93cc2aa7e724d59426cb3a663fd", null ]
+];

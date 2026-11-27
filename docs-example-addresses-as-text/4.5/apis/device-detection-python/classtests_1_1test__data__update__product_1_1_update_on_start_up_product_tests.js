@@ -1,0 +1,6 @@
+var classtests_1_1test__data__update__product_1_1_update_on_start_up_product_tests =
+[
+    [ "start", "classtests_1_1test__data__update__product_1_1_update_on_start_up_product_tests.html#af9fcf136ee4b2f4ca5e7f90a9718ab3d", null ],
+    [ "test_a_configured_product_is_asked_for_in_place_of_the_file", "classtests_1_1test__data__update__product_1_1_update_on_start_up_product_tests.html#a8bf5df2036742aa4b106651ae5827e6d", null ],
+    [ "test_the_update_on_start_up_asks_for_the_product_of_the_file", "classtests_1_1test__data__update__product_1_1_update_on_start_up_product_tests.html#a08f89fa5781479c35ab968eaab41108e", null ]
+];

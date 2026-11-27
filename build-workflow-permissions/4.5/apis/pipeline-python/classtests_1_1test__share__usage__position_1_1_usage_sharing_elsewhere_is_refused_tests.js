@@ -1,0 +1,11 @@
+var classtests_1_1test__share__usage__position_1_1_usage_sharing_elsewhere_is_refused_tests =
+[
+    [ "test_builder_refuses_a_second_one", "classtests_1_1test__share__usage__position_1_1_usage_sharing_elsewhere_is_refused_tests.html#a8c2660a7a0cc20ddcbca198ad36ec99e", null ],
+    [ "test_builder_refuses_it_first", "classtests_1_1test__share__usage__position_1_1_usage_sharing_elsewhere_is_refused_tests.html#aabffc161fa0a5adb9e4b46762f00e3f2", null ],
+    [ "test_builder_refuses_it_first_without_web_elements", "classtests_1_1test__share__usage__position_1_1_usage_sharing_elsewhere_is_refused_tests.html#ae996415c7afb8c3965d5ba8b8876601f", null ],
+    [ "test_configuration_refuses_it_first", "classtests_1_1test__share__usage__position_1_1_usage_sharing_elsewhere_is_refused_tests.html#aca1e3c5393d41e4a82e9e9f770775d6b", null ],
+    [ "test_error_names_the_element_and_its_position", "classtests_1_1test__share__usage__position_1_1_usage_sharing_elsewhere_is_refused_tests.html#a37839ef762796ed44bd1d56c58c912ee", null ],
+    [ "test_pipeline_refuses_it_first", "classtests_1_1test__share__usage__position_1_1_usage_sharing_elsewhere_is_refused_tests.html#a618188ec89285591dc92b5b4f2f1bc79", null ],
+    [ "test_refused_element_is_not_registered", "classtests_1_1test__share__usage__position_1_1_usage_sharing_elsewhere_is_refused_tests.html#aa2b3f6d1ec5e475008bb8293496f20fe", null ],
+    [ "usage", "classtests_1_1test__share__usage__position_1_1_usage_sharing_elsewhere_is_refused_tests.html#a9065a0a755cf7152119081e333b19aa5", null ]
+];

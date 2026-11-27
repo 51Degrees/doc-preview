@@ -1,0 +1,7 @@
+<map id="fiftyone.pipeline.core.flowelements.RunsLast" name="fiftyone.pipeline.core.flowelements.RunsLast">
+<area shape="rect" id="Node000001" title="Implemented by a FlowElement that must be the last Flow Element of a Pipeline and outside any paralle..." alt="" coords="43,5,298,50"/>
+<area shape="rect" id="Node000002" href="$classfiftyone_1_1pipeline_1_1engines_1_1fiftyone_1_1flowelements_1_1_share_usage_base.html" title="Abstract base class for ShareUsage elements." alt="" coords="5,98,336,143"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,63,173,99,168,97,169,68"/>
+<area shape="rect" id="Node000003" href="$classfiftyone_1_1pipeline_1_1engines_1_1fiftyone_1_1flowelements_1_1_share_usage_element.html" title="Flow element that sends usage data to 51Degrees for analysis." alt="" coords="5,191,336,235"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="172,156,173,192,168,189,169,160"/>
+</map>

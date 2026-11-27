@@ -1,0 +1,5 @@
+var classfiftyone_1_1devicedetection_1_1examples_1_1console_1_1_update_data_file_test =
+[
+    [ "updateExample_NoProduct_AsksForTheProductOfTheDataFile", "classfiftyone_1_1devicedetection_1_1examples_1_1console_1_1_update_data_file_test.html#a366c6c5a264a62e3f48d43ab759c8f53", null ],
+    [ "updateExample_ProductArgument_AsksForThatProduct", "classfiftyone_1_1devicedetection_1_1examples_1_1console_1_1_update_data_file_test.html#ae7fa60f62f155929b4aaaa54e24eafd5", null ]
+];

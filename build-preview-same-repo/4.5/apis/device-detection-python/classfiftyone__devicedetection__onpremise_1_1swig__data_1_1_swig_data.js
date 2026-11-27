@@ -1,0 +1,10 @@
+var classfiftyone__devicedetection__onpremise_1_1swig__data_1_1_swig_data =
+[
+    [ "__init__", "classfiftyone__devicedetection__onpremise_1_1swig__data_1_1_swig_data.html#a8c0c9056ce612833728a12c476f54585", null ],
+    [ "_clear", "classfiftyone__devicedetection__onpremise_1_1swig__data_1_1_swig_data.html#a580e57a9b6bef06ca95bf15df526f3bb", null ],
+    [ "close", "classfiftyone__devicedetection__onpremise_1_1swig__data_1_1_swig_data.html#aa5cfa67ebffa7fa7031b6f72ec81bd1b", null ],
+    [ "get", "classfiftyone__devicedetection__onpremise_1_1swig__data_1_1_swig_data.html#a3c54c16a68e012336aa2d34f7cf5a6d7", null ],
+    [ "get_internal", "classfiftyone__devicedetection__onpremise_1_1swig__data_1_1_swig_data.html#a1b787cc8e0c11f0314a2c6caeafe918b", null ],
+    [ "flow_element", "classfiftyone__devicedetection__onpremise_1_1swig__data_1_1_swig_data.html#a6617a34467082dd3ae64b2c44c1b090a", null ],
+    [ "swig_results", "classfiftyone__devicedetection__onpremise_1_1swig__data_1_1_swig_data.html#a090229ace8f314ed80c382acbfe0972e", null ]
+];

@@ -1,0 +1,9 @@
+<map id="FiftyoneDegrees::DeviceDetection::Hash::ValueMetaDataCollectionForProfileHash" name="FiftyoneDegrees::DeviceDetection::Hash::ValueMetaDataCollectionForProfileHash">
+<area shape="rect" id="Node000001" title="A collection of value meta data relating to a profile contained in a Hash engine." alt="" coords="5,350,335,395"/>
+<area shape="rect" id="Node000002" href="$class_fiftyone_degrees_1_1_device_detection_1_1_hash_1_1_value_meta_data_collection_base_hash.html" title="A collection of all value meta data contained in a Hash engine." alt="" coords="20,256,320,301"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,315,172,351,168,349,168,319"/>
+<area shape="rect" id="Node000003" href="$class_fiftyone_degrees_1_1_common_1_1_collection.html" title=" " alt="" coords="51,145,289,207"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="171,220,173,257,167,255,169,225"/>
+<area shape="rect" id="Node000004" href="$class_fiftyone_degrees_1_1_common_1_1_collection.html" title="A group of items accessible by index or key." alt="" coords="73,5,267,50"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="171,63,173,146,167,145,169,68"/>
+</map>

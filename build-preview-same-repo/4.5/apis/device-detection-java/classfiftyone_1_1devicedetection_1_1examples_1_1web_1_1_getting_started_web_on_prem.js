@@ -1,0 +1,7 @@
+var classfiftyone_1_1devicedetection_1_1examples_1_1web_1_1_getting_started_web_on_prem =
+[
+    [ "doGet", "classfiftyone_1_1devicedetection_1_1examples_1_1web_1_1_getting_started_web_on_prem.html#a2289398b53fa454ee88c5bd1cd25ea58", null ],
+    [ "processRequest", "classfiftyone_1_1devicedetection_1_1examples_1_1web_1_1_getting_started_web_on_prem.html#a104af3a6def2e098ddd91fc93f5b78b5", null ],
+    [ "start", "classfiftyone_1_1devicedetection_1_1examples_1_1web_1_1_getting_started_web_on_prem.html#a3fcc59aaf8aef5d48a81289ffae272da", null ],
+    [ "DEFAULT_PORT", "classfiftyone_1_1devicedetection_1_1examples_1_1web_1_1_getting_started_web_on_prem.html#a704c116a38422f6eaba0d6d21cfb4c40", null ]
+];

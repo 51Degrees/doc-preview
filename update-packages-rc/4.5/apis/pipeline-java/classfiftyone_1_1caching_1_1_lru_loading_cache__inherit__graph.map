@@ -1,0 +1,13 @@
+<map id="fiftyone.caching.LruLoadingCache&lt; K, V &gt;" name="fiftyone.caching.LruLoadingCache&lt; K, V &gt;">
+<area shape="rect" id="Node000001" title="Uses the LruCacheBase to implement the LoadingCache interface." alt="" coords="104,266,303,311"/>
+<area shape="rect" id="Node000002" href="$classfiftyone_1_1caching_1_1_lru_cache_base.html" title="This is a Least Recently Used (LRU) cache with multiple linked lists in place of the usual single lin..." alt="" coords="5,174,194,218"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,226,181,266,176,266,135,231"/>
+<area shape="rect" id="Node000003" href="$interfacefiftyone_1_1caching_1_1_cache.html" title="Base cache interface which declares only the get method and the types of key and value stored in the ..." alt="" coords="137,81,305,126"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="178,137,130,175,127,171,182,133"/>
+<area shape="rect" id="Node000005" href="$interfacefiftyone_1_1caching_1_1_loading_cache.html" title="Extension of general cache contract to provide for getting a value with a particular value loaded." alt="" coords="218,174,397,218"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="252,134,290,174,284,173,251,139"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="117,5,202,33"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="144,44,127,82,113,131,105,174,100,172,108,129,122,80,141,49"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="179,43,207,80,202,81,178,48"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="274,228,230,268,227,264,269,230"/>
+</map>

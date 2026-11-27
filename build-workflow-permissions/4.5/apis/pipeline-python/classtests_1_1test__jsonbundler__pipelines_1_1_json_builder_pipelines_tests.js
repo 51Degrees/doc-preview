@@ -1,0 +1,4 @@
+var classtests_1_1test__jsonbundler__pipelines_1_1_json_builder_pipelines_tests =
+[
+    [ "test_each_pipeline_has_the_information_of_its_own_element", "classtests_1_1test__jsonbundler__pipelines_1_1_json_builder_pipelines_tests.html#a6abd87500472b2502df5d9951cb6fc6c", null ]
+];

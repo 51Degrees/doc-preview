@@ -1,0 +1,7 @@
+<map id="fiftyone.ipintelligence.cloud.data.MultiIPIDataCloud" name="fiftyone.ipintelligence.cloud.data.MultiIPIDataCloud">
+<area shape="rect" id="Node000001" title="Encapsulates a list of IPIntelligenceData instances which can be returned by the 51Degrees Cloud serv..." alt="" coords="52,98,290,143"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,14,134,42"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,49,149,97,144,98,94,54"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="158,5,387,50"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="239,59,196,100,194,95,235,61"/>
+</map>

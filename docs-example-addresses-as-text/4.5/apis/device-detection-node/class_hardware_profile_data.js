@@ -1,0 +1,4 @@
+var class_hardware_profile_data =
+[
+    [ "create", "class_hardware_profile_data.html#ab170a837e1676ca2c0a117e745a7c83a", null ]
+];

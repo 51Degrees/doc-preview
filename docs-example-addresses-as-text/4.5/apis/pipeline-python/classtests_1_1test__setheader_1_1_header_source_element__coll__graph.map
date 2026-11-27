@@ -1,0 +1,10 @@
+<map id="tests.test_setheader.HeaderSourceElement" name="tests.test_setheader.HeaderSourceElement">
+<area shape="rect" id="Node000001" title=" " alt="" coords="537,37,742,82"/>
+<area shape="rect" id="Node000002" href="$classfiftyone__pipeline__core_1_1flowelement_1_1_flow_element.html" title="A FlowElement is placed inside a Pipeline It receives Evidence via a FlowData object It uses this to ..." alt="" coords="122,5,376,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="391,37,539,51,534,52,391,42"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,50,67,78"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="81,53,124,48,120,51,83,59"/>
+<area shape="rect" id="Node000004" href="$classfiftyone__pipeline__core_1_1aspectproperty__value_1_1_aspect_property_value.html" title="An AspectPropertyValue is a wrapper for a value It lets you check this wrapper has a value inside it ..." alt="" coords="116,75,382,119"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="82,68,118,75,113,77,82,73"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="397,87,513,77,534,77,539,76,514,82,398,92"/>
+</map>

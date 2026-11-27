@@ -1,0 +1,10 @@
+var classfiftyone__pipeline__core_1_1elementdata__pool_1_1_element_data_pool =
+[
+    [ "__init__", "classfiftyone__pipeline__core_1_1elementdata__pool_1_1_element_data_pool.html#a29389c07b0919364f2c9fd047ba45553", null ],
+    [ "__len__", "classfiftyone__pipeline__core_1_1elementdata__pool_1_1_element_data_pool.html#a1c3d55c33dc115c9755a267088f1407c", null ],
+    [ "give_back", "classfiftyone__pipeline__core_1_1elementdata__pool_1_1_element_data_pool.html#a7d955f85b5efa5accb32d8c17a827705", null ],
+    [ "take", "classfiftyone__pipeline__core_1_1elementdata__pool_1_1_element_data_pool.html#a84cbbdb47ddb51e483a5317c856a6196", null ],
+    [ "_instances", "classfiftyone__pipeline__core_1_1elementdata__pool_1_1_element_data_pool.html#a4ac2e5751df59b780871a9f9c43f099b", null ],
+    [ "_lock", "classfiftyone__pipeline__core_1_1elementdata__pool_1_1_element_data_pool.html#ac707ef80611522804f37a3e614bc90e0", null ],
+    [ "maximum_instances", "classfiftyone__pipeline__core_1_1elementdata__pool_1_1_element_data_pool.html#a69382b9d5c8fe496d970dd7ef2e4118c", null ]
+];

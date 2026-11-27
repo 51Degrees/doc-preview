@@ -1,0 +1,5 @@
+var classfiftyone_1_1pipeline_1_1jsonbuilder_1_1flowelements_1_1_json_builder_data_internal =
+[
+    [ "getJson", "classfiftyone_1_1pipeline_1_1jsonbuilder_1_1flowelements_1_1_json_builder_data_internal.html#acc44628f6599ea2818a881e8ff3dac5f", null ],
+    [ "isPoolable", "classfiftyone_1_1pipeline_1_1jsonbuilder_1_1flowelements_1_1_json_builder_data_internal.html#a00d36247c6f99ec33d4599bfb3ba198d", null ]
+];

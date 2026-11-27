@@ -1,0 +1,9 @@
+<map id="fiftyone_pipeline_core.elementdata._CheckedDictWrites" name="fiftyone_pipeline_core.elementdata._CheckedDictWrites">
+<area shape="rect" id="Node000001" title="The write methods of a dict, each of which calls _check_writable first, so a dict that holds Element ..." alt="" coords="115,40,370,85"/>
+<area shape="rect" id="Node000003" href="$classfiftyone__pipeline__core_1_1elementdata_1_1___contents_dict.html" title="The contents of Element Data that keeps its values in a dict." alt="" coords="418,5,673,50"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="385,43,420,42,415,43,386,49"/>
+<area shape="rect" id="Node000004" href="$classfiftyone__pipeline__core_1_1elementdata_1_1___flow_data_dict.html" title="A dict that holds what a FlowData has been given, being its ElementData, its errors or its Evidence." alt="" coords="418,75,673,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="385,76,420,82,415,82,385,81"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,48,67,76"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="82,60,117,61,112,64,83,65"/>
+</map>

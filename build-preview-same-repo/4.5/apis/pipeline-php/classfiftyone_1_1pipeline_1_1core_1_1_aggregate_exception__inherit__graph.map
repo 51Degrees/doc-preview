@@ -1,0 +1,5 @@
+<map id="fiftyone\pipeline\core\AggregateException" name="fiftyone\pipeline\core\AggregateException">
+<area shape="rect" id="Node000001" title="Every error kept under one key of FlowData\$errors, in the order each was added." alt="" coords="5,81,164,126"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="42,5,127,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="86,47,87,81,82,80,83,51"/>
+</map>

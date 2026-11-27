@@ -1,0 +1,6 @@
+var classtests_1_1test__share__usage__pipelines_1_1_share_usage_pipelines_tests =
+[
+    [ "test_each_record_names_the_elements_of_its_own_pipeline", "classtests_1_1test__share__usage__pipelines_1_1_share_usage_pipelines_tests.html#a4ffb6b411b739448316e7b716e1de7d7", null ],
+    [ "test_only_the_first_record_the_element_writes_carries_them", "classtests_1_1test__share__usage__pipelines_1_1_share_usage_pipelines_tests.html#a0e22b36f4be0a33192b0309de93278ed", null ],
+    [ "test_the_element_keeps_one_hour_for_every_pipeline", "classtests_1_1test__share__usage__pipelines_1_1_share_usage_pipelines_tests.html#ab53f056d14277f113419123038f9fb0d", null ]
+];

@@ -1,0 +1,5 @@
+var class_ip_intelligence_on_premise =
+[
+    [ "constructor", "class_ip_intelligence_on_premise.html#a16d697a654882ea1c4d585a6a321dd75", null ],
+    [ "processInternal", "class_ip_intelligence_on_premise.html#a9de7c4bc29bb4fa21529673aa6b1c31f", null ]
+];

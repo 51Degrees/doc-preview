@@ -1,0 +1,5 @@
+<map id="fiftyone_pipeline_core.elementdata._CheckedDictWrites" name="fiftyone_pipeline_core.elementdata._CheckedDictWrites">
+<area shape="rect" id="Node000001" title="The write methods of a dict, each of which calls _check_writable first, so a dict that holds Element ..." alt="" coords="5,81,261,126"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="102,5,164,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="135,47,135,81,131,79,131,51"/>
+</map>

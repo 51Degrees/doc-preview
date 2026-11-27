@@ -1,0 +1,6 @@
+var struct_session_data =
+[
+    [ "__pad0__", "struct_session_data.html#aaa61d9581365276b7a903e91c1b87fd1", null ],
+    [ "pointer_moved", "struct_session_data.html#a8bb8f064aebeb450404bec915ead6c81", null ],
+    [ "seconds_since_page_load", "struct_session_data.html#a89b55e58b0382c261be1350010026f2a", null ]
+];

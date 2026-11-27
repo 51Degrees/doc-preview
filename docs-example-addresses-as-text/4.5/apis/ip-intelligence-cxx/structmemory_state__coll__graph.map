@@ -1,0 +1,8 @@
+<map id="memoryState" name="memoryState">
+<area shape="rect" id="Node000001" title="Shared test state." alt="" coords="5,106,116,134"/>
+<area shape="rect" id="Node000002" href="$structfiftyone_degrees_resource_manager.html" title="Manager structure used to provide access to a shared and changing resource." alt="" coords="37,5,278,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="78,43,65,59,60,69,58,82,60,106,54,105,52,81,54,68,60,55,81,39"/>
+<area shape="rect" id="Node000003" href="$structfiftyone_degrees_resource_handle.html" title="Handle for a shared resource." alt="" coords="140,106,370,134"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="151,46,151,65,157,81,169,94,187,106,182,105,166,98,152,83,146,66,148,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="244,91,236,75,224,59,208,46,192,36,192,31,211,42,228,55,240,72,249,93"/>
+</map>

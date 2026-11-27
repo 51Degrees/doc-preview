@@ -1,0 +1,9 @@
+var class_examples_1_1_human_confidence_1_1_human_confidence_web_1_1_human_confidence_cloud =
+[
+    [ "CarriesHumanConfidenceAsync", "class_examples_1_1_human_confidence_1_1_human_confidence_web_1_1_human_confidence_cloud.html#a522b373e3f237f8b5a945ccb42eb6b57", null ],
+    [ "EvidenceAsync", "class_examples_1_1_human_confidence_1_1_human_confidence_web_1_1_human_confidence_cloud.html#aeb157969d2fe7a5c0df5c672c4eedc73", null ],
+    [ "HeaderNamesAsync", "class_examples_1_1_human_confidence_1_1_human_confidence_web_1_1_human_confidence_cloud.html#a516c87cd56a52a0359daca5f4c1c8e81", null ],
+    [ "PassiveAsync", "class_examples_1_1_human_confidence_1_1_human_confidence_web_1_1_human_confidence_cloud.html#a004fe710c3df3c848bdb7a338e6d603f", null ],
+    [ "RedeemAsync", "class_examples_1_1_human_confidence_1_1_human_confidence_web_1_1_human_confidence_cloud.html#ac46731f4d774361f762f0a8a52d5ed59", null ],
+    [ "Api", "class_examples_1_1_human_confidence_1_1_human_confidence_web_1_1_human_confidence_cloud.html#af3ca41fead011b024e4f3efd9a693910", null ]
+];

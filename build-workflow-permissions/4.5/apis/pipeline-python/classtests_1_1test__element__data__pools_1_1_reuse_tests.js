@@ -1,0 +1,9 @@
+var classtests_1_1test__element__data__pools_1_1_reuse_tests =
+[
+    [ "test_a_core_element_reuses_its_instance_with_new_values", "classtests_1_1test__element__data__pools_1_1_reuse_tests.html#a4e604dbb62098f3f6a5fd7dd069a15d8", null ],
+    [ "test_a_flow_data_not_closed_leaves_its_instances_to_the_gc", "classtests_1_1test__element__data__pools_1_1_reuse_tests.html#ad1ba1757e1dd94f727d055add244217c", null ],
+    [ "test_a_reused_instance_has_no_values_from_the_last_request", "classtests_1_1test__element__data__pools_1_1_reuse_tests.html#a8d8fbd297c057441c2f2df7a6e99e3ff", null ],
+    [ "test_a_reused_instance_is_written_and_then_finished_again", "classtests_1_1test__element__data__pools_1_1_reuse_tests.html#ae323059f4f41ab78ff3defc5ebf296a5", null ],
+    [ "test_closing_twice_gives_an_instance_back_once", "classtests_1_1test__element__data__pools_1_1_reuse_tests.html#a45aa80d2347725610f23112149ee0f49", null ],
+    [ "test_data_under_two_keys_is_given_back_once", "classtests_1_1test__element__data__pools_1_1_reuse_tests.html#a685c239f7926187e755b48c63c689318", null ]
+];

@@ -1,0 +1,5 @@
+var classtests_1_1test__package__gettingstarted__from__root_1_1_package_getting_started_from_root_tests =
+[
+    [ "test_reads_the_data_file_from_the_environment", "classtests_1_1test__package__gettingstarted__from__root_1_1_package_getting_started_from_root_tests.html#a4d2ef1c4f4bf256a1bfa672ebc0efef6", null ],
+    [ "test_runs_from_the_repository_root", "classtests_1_1test__package__gettingstarted__from__root_1_1_package_getting_started_from_root_tests.html#a849b8663a2d443911f91ee88754d96e4", null ]
+];

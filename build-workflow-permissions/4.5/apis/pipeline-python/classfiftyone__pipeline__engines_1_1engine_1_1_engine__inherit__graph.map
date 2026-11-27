@@ -1,0 +1,35 @@
+<map id="fiftyone_pipeline_engines.engine.Engine" name="fiftyone_pipeline_engines.engine.Engine">
+<area shape="rect" id="Node000001" title="An engine is an extension of the FlowElement class that adds extra functionality." alt="" coords="416,352,655,397"/>
+<area shape="rect" id="Node000004" href="$classfiftyone__pipeline__cloudrequestengine_1_1cloudengine_1_1_cloud_engine.html" title="This is a template for all 51Degrees cloud engines." alt="" coords="728,75,1079,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="549,336,571,288,605,231,648,175,674,151,702,129,730,117,725,120,705,134,677,155,652,179,609,234,576,290,553,339"/>
+<area shape="rect" id="Node000010" href="$classfiftyone__pipeline__cloudrequestengine_1_1cloudrequestengine_1_1_cloud_request_engine.html" title=" " alt="" coords="703,144,1104,189"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="558,337,584,304,617,266,657,229,702,199,732,188,727,191,705,203,660,233,621,269,588,307,562,341"/>
+<area shape="rect" id="Node000011" href="$classfiftyone__pipeline__engines__fiftyone_1_1share__usage_1_1_share_usage.html" title=" " alt="" coords="781,213,1026,258"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="576,340,634,302,702,268,783,248,778,250,704,273,637,306,579,345"/>
+<area shape="rect" id="Node000012" href="$classsimple__onpremise__engine_1_1_simple_on_premise_engine.html" title="An engine that takes a date of birth as evidence and gives the star sign, worked out from a table it ..." alt="" coords="805,283,1002,327"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="659,346,703,337,807,320,802,322,704,342,660,351"/>
+<area shape="rect" id="Node000013" href="$classtests_1_1test__datafile__refresh_1_1_recording_engine.html" title=" " alt="" coords="810,352,997,397"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="670,372,812,374,807,375,671,377"/>
+<area shape="rect" id="Node000014" href="$classtests_1_1test__element__data__pools_1_1_pooled_engine.html" title=" " alt="" coords="808,421,999,466"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="659,398,704,406,810,427,805,428,703,412,660,403"/>
+<area shape="rect" id="Node000015" href="$classtests_1_1test__engine__in__pipelines_1_1_data_file_engine.html" title=" " alt="" coords="809,491,998,535"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="578,404,637,442,704,476,756,492,811,504,806,504,755,497,702,481,634,447,577,409"/>
+<area shape="rect" id="Node000016" href="$classtests_1_1test__engines_1_1_counting_engine.html" title="An engine that counts its calls to process_internal, so a test can see whether a result came from the..." alt="" coords="802,560,1005,605"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="561,407,588,442,621,479,660,516,705,545,752,564,805,577,799,577,751,569,702,550,657,520,617,483,584,445,559,412"/>
+<area shape="rect" id="Node000017" href="$classtests_1_1test__engines_1_1_example_aspect_engine.html" title=" " alt="" coords="803,629,1004,674"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="552,409,576,458,609,514,652,570,677,594,705,615,752,636,805,650,800,650,750,641,702,619,674,598,648,573,605,517,571,461,550,414"/>
+<area shape="rect" id="Node000002" href="$classfiftyone__pipeline__core_1_1flowelement_1_1_flow_element.html" title="A FlowElement is placed inside a Pipeline It receives Evidence via a FlowData object It uses this to ..." alt="" coords="115,352,368,397"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="383,372,418,373,413,375,384,377"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,360,67,388"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="81,372,116,373,112,376,84,377"/>
+<area shape="rect" id="Node000005" href="$classfiftyone__pipeline__examples_1_1cloud_1_1engines_1_1_device_detection_cloud.html" title="Device detection results, read from the &quot;device&quot; section of the cloud response and available as flowd..." alt="" coords="1152,5,1450,50"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1050,69,1171,50,1166,52,1051,74"/>
+<area shape="rect" id="Node000006" href="$classfiftyone__pipeline__examples_1_1cloud_1_1engines_1_1_weighted_cloud_engine.html" title="A cloud engine whose section includes weighted values." alt="" coords="1152,75,1450,119"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="1094,94,1154,96,1149,98,1095,100"/>
+<area shape="rect" id="Node000009" href="$classfiftyone__pipeline__examples_1_1cloud_1_1simple__cloud__engine_1_1_simple_cloud_engine.html" title="Star sign results, read from the &quot;astrology&quot; section of the service&#39;s answer and available as flowdat..." alt="" coords="1157,144,1444,189"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="1051,120,1104,129,1173,143,1167,144,1103,134,1052,125"/>
+<area shape="rect" id="Node000007" href="$classfiftyone__pipeline__examples_1_1cloud_1_1engines_1_1_countries_translation_cloud.html" title="Country names translated by the cloud service, read from the &quot;countrynamestranslated&quot; section of the ..." alt="" coords="1498,40,1796,85"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="1465,78,1500,77,1495,78,1466,83"/>
+<area shape="rect" id="Node000008" href="$classfiftyone__pipeline__examples_1_1cloud_1_1engines_1_1_ip_intelligence_cloud.html" title="IP intelligence results, read from the &quot;ip&quot; section of the cloud response and available as flowdata...." alt="" coords="1498,109,1796,154"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="1465,111,1500,116,1495,117,1466,116"/>
+</map>

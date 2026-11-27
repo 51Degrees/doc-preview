@@ -1,0 +1,4 @@
+var classfiftyone_1_1ipintelligence_1_1examples_1_1web_1_1_getting_started_web_mixed =
+[
+    [ "DEFAULT_PORT", "classfiftyone_1_1ipintelligence_1_1examples_1_1web_1_1_getting_started_web_mixed.html#ae1e54037a5543346f45e2747ca90133a", null ]
+];

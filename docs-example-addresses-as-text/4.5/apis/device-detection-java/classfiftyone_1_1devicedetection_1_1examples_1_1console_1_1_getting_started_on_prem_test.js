@@ -1,0 +1,5 @@
+var classfiftyone_1_1devicedetection_1_1examples_1_1console_1_1_getting_started_on_prem_test =
+[
+    [ "main_UsesTheDataFileGivenAsAnArgument", "classfiftyone_1_1devicedetection_1_1examples_1_1console_1_1_getting_started_on_prem_test.html#aa8c52d01530612836a7265d9fd77db38", null ],
+    [ "run_LeavesTheDataFilePropertyAsItWas", "classfiftyone_1_1devicedetection_1_1examples_1_1console_1_1_getting_started_on_prem_test.html#a896398e9c0d6d080bad60f58ca6ac321", null ]
+];

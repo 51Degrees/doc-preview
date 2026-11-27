@@ -1,0 +1,49 @@
+/*
+ @licstart  The following is the entire license notice for the JavaScript code in this file.
+
+ The MIT License (MIT)
+
+ Copyright (C) 1997-2020 by Dimitri van Heesch
+
+ Permission is hereby granted, free of charge, to any person obtaining a copy of this software
+ and associated documentation files (the "Software"), to deal in the Software without restriction,
+ including without limitation the rights to use, copy, modify, merge, publish, distribute,
+ sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is
+ furnished to do so, subject to the following conditions:
+
+ The above copyright notice and this permission notice shall be included in all copies or
+ substantial portions of the Software.
+
+ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING
+ BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+ DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+ @licend  The above is the entire license notice for the JavaScript code in this file
+*/
+var NAVTREE =
+[
+  [ "51Degrees Device Detection Python", "index.html", [
+    [ "General Docs", "/documentation/4.5/index.html", null ],
+    [ "Classes", "annotated.html", "annotated" ],
+    [ "Examples", "examples.html", "examples" ]
+  ] ]
+];
+
+var NAVTREEHIDEROOT = true;
+
+var NAVTREEHIDESYNC = true;
+
+var NAVTREEINDEX =
+[
+"/documentation/4.5/index.html",
+"classfiftyone__devicedetection__onpremise_1_1_device_detection_hash_engine_module_1_1_engine_base_swig.html#ad6e0e6935e3a5f83f285368ef53d59bb",
+"classfiftyone__devicedetection__onpremise_1_1_device_detection_hash_engine_module_1_1_vector_string_swig.html#a2719027ff877a729d33185f4dcc8376c",
+"classtests_1_1test__devicedetection_1_1_device_detection_tests.html#ae6a86b5f54a0665a73beaf8e7fa4d8df",
+"classtests_1_1test__swig__data__index_1_1_value.html#ac59417bc6a22c1d4154037c1f8a2bc4d"
+];
+
+const SYNCONMSG = 'click to disable panel synchronization';
+const SYNCOFFMSG = 'click to enable panel synchronization';
+const LISTOFALLMEMBERS = 'List of all members';

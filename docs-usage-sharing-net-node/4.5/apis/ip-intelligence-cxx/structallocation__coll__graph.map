@@ -1,0 +1,9 @@
+<map id="allocation" name="allocation">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,170,91,198"/>
+<area shape="rect" id="Node000002" href="$structfiftyone_degrees_tree_node.html" title="Node structure defining a single node in the tree." alt="" coords="31,26,217,54"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,66,76,82,63,100,52,137,50,171,45,169,47,136,58,98,72,78,93,62"/>
+<area shape="poly" id="edge4_Node000002_Node000002" title=" " alt="" coords="192,22,227,26,239,31,243,40,237,50,222,56,178,57,177,52,221,51,234,46,238,40,235,35,226,31,193,27"/>
+<area shape="rect" id="Node000003" href="$structfiftyone_degrees_tree_root.html" title="Tree root structure defining the beginning of the tree." alt="" coords="115,170,296,198"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="117,67,113,108,115,127,123,145,135,158,153,170,147,170,132,162,118,148,110,129,107,108,113,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="196,155,187,129,174,100,156,76,138,57,139,52,160,73,178,98,192,127,201,157"/>
+</map>

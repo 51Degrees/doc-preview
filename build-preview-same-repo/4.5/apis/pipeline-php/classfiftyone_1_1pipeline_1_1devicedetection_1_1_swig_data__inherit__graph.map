@@ -1,0 +1,9 @@
+<map id="fiftyone\pipeline\devicedetection\SwigData" name="fiftyone\pipeline\devicedetection\SwigData">
+<area shape="rect" id="Node000001" title="Extension of AspectData that reads each property from the results the SWIG wrapper of the on&#45;premise ..." alt="" coords="441,40,675,85"/>
+<area shape="rect" id="Node000002" href="$classfiftyone_1_1pipeline_1_1engines_1_1_aspect_data.html" title=" " alt="" coords="212,5,393,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="409,39,443,46,438,47,409,45"/>
+<area shape="rect" id="Node000003" href="$classfiftyone_1_1pipeline_1_1core_1_1_element_data.html" title="Stores information created by a FlowElement based on FlowData." alt="" coords="5,5,164,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="179,25,214,27,209,28,180,30"/>
+<area shape="rect" id="Node000004" href="$interfacefiftyone_1_1pipeline_1_1core_1_1_provides_values_as_string.html" title="Implemented by Element Data that holds its Property values as strings and parses them into the type e..." alt="" coords="213,75,392,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="406,80,438,79,443,78,407,86"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="tests.test_hardwareprofile_cloud.HardwareProfileDictTests" name="tests.test_hardwareprofile_cloud.HardwareProfileDictTests">
+<area shape="rect" id="Node000001" title="A profile is also a dict of property name to AspectPropertyValue, and behaves as one." alt="" coords="5,81,236,126"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="54,5,187,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,47,123,81,118,79,119,51"/>
+</map>

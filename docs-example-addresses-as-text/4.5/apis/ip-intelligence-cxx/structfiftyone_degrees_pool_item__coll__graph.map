@@ -1,0 +1,7 @@
+<map id="fiftyoneDegreesPoolItem" name="fiftyoneDegreesPoolItem">
+<area shape="rect" id="Node000001" title="Pool item node in the stack of items." alt="" coords="5,5,188,33"/>
+<area shape="rect" id="Node000002" href="$structfiftyone_degrees_pool.html" title="Pool of resources stored as items in a stack." alt="" coords="20,106,173,134"/>
+<area shape="poly" id="edge2_Node000002_Node000001" title=" " alt="" coords="66,42,59,58,55,70,59,81,67,93,78,105,73,105,63,97,54,83,50,70,54,56,63,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,89,102,82,102,57,99,36,101,31,107,57,107,82,105,92"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="189,111,199,120,191,128,173,131,173,126,189,123,194,120,187,116"/>
+</map>

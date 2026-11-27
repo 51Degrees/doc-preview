@@ -1,0 +1,18 @@
+<map id="memoryThreadState" name="memoryThreadState">
+<area shape="rect" id="Node000001" title="Individual thread state where all members are exclusively accessed by a single test thread." alt="" coords="195,324,350,352"/>
+<area shape="rect" id="Node000002" href="$structmemory_state.html" title="Shared test state." alt="" coords="5,215,116,243"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,248,248,322,244,325,99,253"/>
+<area shape="rect" id="Node000003" href="$structfiftyone_degrees_resource_manager.html" title="Manager structure used to provide access to a shared and changing resource." alt="" coords="37,106,278,134"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="78,144,65,159,59,172,57,187,60,215,54,215,51,187,54,171,60,156,81,139"/>
+<area shape="rect" id="Node000004" href="$structfiftyone_degrees_resource_handle.html" title="Handle for a shared resource." alt="" coords="140,215,370,243"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="151,146,152,166,157,181,175,200,200,214,194,215,172,204,152,184,146,167,149,151"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="246,200,237,180,224,159,209,147,193,137,193,132,212,142,228,156,242,177,251,201"/>
+<area shape="rect" id="Node000005" href="$structfiftyone_degrees_result_ipi_array.html" title="Array of items of type fiftyoneDegreesResultIpi used to easily access and track the size of the array..." alt="" coords="394,207,575,251"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="431,258,300,326,298,321,425,259"/>
+<area shape="rect" id="Node000006" href="$structfiftyone_degrees_result_ipi.html" title="Singular IP address result returned by an IP address lookup method." alt="" coords="394,106,575,134"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="486,147,487,207,482,205,483,151"/>
+<area shape="rect" id="Node000007" href="$structfiftyone_degrees_ipi_cg_result.html" title="The evaluation result from graph collection." alt="" coords="276,5,474,33"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="397,42,436,80,468,105,462,105,433,84,396,47"/>
+<area shape="rect" id="Node000008" href="$structfiftyone_degrees_ip_address.html" title="The structure to hold a IP Address in byte array format." alt="" coords="498,5,687,33"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="570,42,501,108,497,103,565,45"/>
+</map>
